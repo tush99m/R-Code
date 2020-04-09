@@ -1,0 +1,144 @@
+,age,sex,educ,income91,richwork,satjob,life,impjob,hrs1,degree,anomia5,satjob2,marital,agewed,zodiac,postlife,happy,hapmar,tvhours
+1,55,Female,16,75000,Continue working,A little dissatisfied,Routine,Very important,38,Bachelor,Disagree,Not very satisfied,MARRIED,32,LIBRA,YES,PRETTY HAPPY,VERY HAPPY,2
+2,44,Female,18,75000,Continue working,Very satisfied,Exciting,One of most important,21,Bachelor,Agree,Very satisfied,MARRIED,23,LEO,YES,PRETTY HAPPY,PRETTY HAPPY,2
+3,20,Female,12,8000,Continue working,Very satisfied,Exciting,Very important,20,High school,Disagree,Very satisfied,MARRIED,19,SAGITTARIUS,YES,VERY HAPPY,VERY HAPPY,3
+4,41,Male,6,30000,Continue working,Mod satisfied,Routine,Very important,16,Less than HS,Agree,Not very satisfied,MARRIED,28,VIRGO,YES,NOT TOO HAPPY,PRETTY HAPPY,2
+5,61,Female,16,35000,Stop working,Very satisfied,Exciting,One of most important,89,Bachelor,Disagree,Very satisfied,MARRIED,20,CANCER,YES,VERY HAPPY,VERY HAPPY,1
+6,46,Male,20,75000,Continue working,Mod satisfied,Exciting,One of most important,50,Graduate,Agree,Not very satisfied,MARRIED,23,VIRGO,NO,VERY HAPPY,PRETTY HAPPY,1
+7,37,Female,16,75000,Continue working,Mod satisfied,Exciting,Somewhat important,10,Bachelor,Disagree,Not very satisfied,MARRIED,22,LIBRA,YES,VERY HAPPY,VERY HAPPY,2
+8,49,Male,15,50000,Continue working,Mod satisfied,Exciting,Very important,50,High school,Disagree,Not very satisfied,MARRIED,30,AQUARIUS,NO,PRETTY HAPPY,VERY HAPPY,1
+9,49,Female,13,75000,Continue working,Mod satisfied,Exciting,Very important,20,High school,Agree,Not very satisfied,MARRIED,29,CAPRICORN,NO,PRETTY HAPPY,VERY HAPPY,2
+10,45,Male,15,60000,Continue working,Mod satisfied,Exciting,Somewhat important,50,High school,Disagree,Not very satisfied,MARRIED,20,SCORPIO,YES,VERY HAPPY,VERY HAPPY,1
+11,27,Male,16,35000,Continue working,Very satisfied,Exciting,One of most important,80,Bachelor,Disagree,Very satisfied,MARRIED,24,VIRGO,YES,PRETTY HAPPY,PRETTY HAPPY,1
+12,52,Female,14,40000,Continue working,Mod satisfied,Dull,Very important,20,Junior college,Agree,Not very satisfied,MARRIED,18,LIBRA,YES,PRETTY HAPPY,PRETTY HAPPY,6
+13,24,Female,12,35000,Continue working,Very satisfied,Routine,Very important,55,High school,Agree,Very satisfied,MARRIED,19,AQUARIUS,YES,PRETTY HAPPY,VERY HAPPY,2
+14,57,Male,17,75000,Stop working,Mod satisfied,Exciting,Very important,60,Bachelor,Disagree,Not very satisfied,MARRIED,20,ARIES,YES,VERY HAPPY,VERY HAPPY,1
+15,27,Male,15,50000,Stop working,Mod satisfied,Routine,Very important,55,High school,Disagree,Not very satisfied,MARRIED,26,CAPRICORN,NO,VERY HAPPY,VERY HAPPY,3
+16,44,Male,20,60000,Continue working,Very satisfied,Exciting,One of most important,55,Graduate,Agree,Very satisfied,MARRIED,27,CAPRICORN,YES,PRETTY HAPPY,VERY HAPPY,2
+17,59,Male,20,75000,Continue working,Very satisfied,Exciting,Very important,67,Graduate,Disagree,Very satisfied,MARRIED,21,GEMINI,YES,VERY HAPPY,VERY HAPPY,1
+18,35,Male,14,60000,Continue working,Mod satisfied,Exciting,Very important,40,High school,Agree,Not very satisfied,MARRIED,30,SAGITTARIUS,YES,PRETTY HAPPY,VERY HAPPY,2
+19,43,Female,15,40000,Continue working,Mod satisfied,Exciting,One of most important,24,High school,Agree,Not very satisfied,MARRIED,22,VIRGO,YES,NOT TOO HAPPY,PRETTY HAPPY,2
+20,31,Male,12,30000,Continue working,Very satisfied,Routine,Very important,40,High school,Agree,Very satisfied,MARRIED,26,AQUARIUS,YES,PRETTY HAPPY,VERY HAPPY,2
+21,43,Female,16,40000,Continue working,Very satisfied,Routine,Very important,38,Bachelor,Disagree,Very satisfied,MARRIED,21,ARIES,YES,PRETTY HAPPY,PRETTY HAPPY,1
+22,59,Female,13,60000,Stop working,Very satisfied,Exciting,Somewhat important,32,High school,Agree,Very satisfied,MARRIED,20,GEMINI,YES,PRETTY HAPPY,PRETTY HAPPY,2
+23,41,Female,13,60000,Stop working,Mod satisfied,Exciting,Somewhat important,40,High school,Agree,Not very satisfied,MARRIED,18,LIBRA,YES,VERY HAPPY,VERY HAPPY,1
+24,50,Male,12,60000,Continue working,Very satisfied,Exciting,One of most important,40,High school,Disagree,Very satisfied,MARRIED,26,SAGITTARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,3
+25,60,Female,12,75000,Stop working,Mod satisfied,Exciting,Very important,40,High school,Agree,Not very satisfied,MARRIED,20,PISCES,NO,VERY HAPPY,VERY HAPPY,3
+26,47,Female,12,60000,Continue working,Mod satisfied,Exciting,Very important,55,High school,Agree,Not very satisfied,MARRIED,18,VIRGO,YES,PRETTY HAPPY,PRETTY HAPPY,2
+27,45,Female,14,40000,Continue working,Very satisfied,Exciting,Very important,20,Junior college,Agree,Very satisfied,MARRIED,18,SAGITTARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,1
+28,37,Male,14,35000,Continue working,Very satisfied,Exciting,Somewhat important,48,Junior college,Disagree,Very satisfied,MARRIED,24,LIBRA,YES,PRETTY HAPPY,VERY HAPPY,2
+29,41,Male,11,20000,Stop working,Mod satisfied,Routine,One of most important,40,Less than HS,Agree,Not very satisfied,MARRIED,21,CANCER,YES,NOT TOO HAPPY,PRETTY HAPPY,5
+30,43,Male,16,75000,Stop working,Mod satisfied,Routine,One of most important,40,Bachelor,Agree,Not very satisfied,MARRIED,26,GEMINI,NO,PRETTY HAPPY,PRETTY HAPPY,1
+31,47,Female,18,75000,Continue working,Very satisfied,Exciting,Very important,40,Graduate,Agree,Very satisfied,MARRIED,28,CANCER,YES,PRETTY HAPPY,PRETTY HAPPY,6
+32,65,Male,13,22500,Continue working,Very satisfied,Exciting,Somewhat important,24,High school,Agree,Very satisfied,MARRIED,24,LEO,YES,PRETTY HAPPY,VERY HAPPY,4
+33,49,Female,8,10000,Stop working,Very satisfied,Exciting,Very important,24,Less than HS,Agree,Very satisfied,MARRIED,20,TAURUS,YES,NOT TOO HAPPY,VERY HAPPY,1
+34,41,Male,15,75000,Continue working,Mod satisfied,Routine,One of most important,40,High school,Agree,Not very satisfied,MARRIED,20,TAURUS,YES,PRETTY HAPPY,VERY HAPPY,1
+35,36,Female,14,35000,Continue working,Very satisfied,Exciting,Very important,41,Junior college,Agree,Very satisfied,MARRIED,20,ARIES,YES,VERY HAPPY,VERY HAPPY,1
+36,39,Female,16,50000,Continue working,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,Not very satisfied,MARRIED,23,CAPRICORN,NO,VERY HAPPY,VERY HAPPY,2
+37,44,Male,14,40000,Continue working,Mod satisfied,Routine,Very important,40,Junior college,Disagree,Not very satisfied,MARRIED,21,LEO,YES,PRETTY HAPPY,PRETTY HAPPY,4
+38,26,Male,13,35000,Continue working,Mod satisfied,Routine,Somewhat important,52,High school,Agree,Not very satisfied,MARRIED,23,LIBRA,YES,PRETTY HAPPY,PRETTY HAPPY,3
+39,41,Male,14,75000,Stop working,Mod satisfied,Exciting,Very important,53,High school,Agree,Not very satisfied,MARRIED,40,PISCES,YES,PRETTY HAPPY,VERY HAPPY,1
+40,42,Male,15,50000,Continue working,A little dissatisfied,Routine,Somewhat important,40,Junior college,Agree,Not very satisfied,MARRIED,20,CAPRICORN,YES,PRETTY HAPPY,VERY HAPPY,2
+41,43,Female,12,5000,Continue working,A little dissatisfied,Dull,One of most important,20,High school,Agree,Not very satisfied,MARRIED,22,GEMINI,YES,NOT TOO HAPPY,NOT TOO HAPPY,10
+42,26,Male,12,15000,Continue working,Mod satisfied,Exciting,Very important,65,High school,Agree,Not very satisfied,MARRIED,19,SCORPIO,YES,PRETTY HAPPY,VERY HAPPY,3
+43,51,Male,12,17500,Continue working,Very satisfied,Exciting,One of most important,55,High school,Disagree,Very satisfied,MARRIED,21,CAPRICORN,YES,VERY HAPPY,VERY HAPPY,1
+44,40,Female,12,40000,Continue working,Very satisfied,Exciting,One of most important,40,High school,Disagree,Very satisfied,MARRIED,21,ARIES,YES,VERY HAPPY,VERY HAPPY,3
+45,52,Male,12,75000,Stop working,Very satisfied,Exciting,One of most important,40,High school,Agree,Very satisfied,MARRIED,25,LEO,YES,PRETTY HAPPY,PRETTY HAPPY,2
+46,50,Female,14,35000,Stop working,Mod satisfied,Routine,Very important,16,Junior college,Agree,Not very satisfied,MARRIED,19,GEMINI,YES,PRETTY HAPPY,VERY HAPPY,4
+47,45,Female,13,50000,Stop working,Mod satisfied,Routine,Somewhat important,45,High school,Agree,Not very satisfied,MARRIED,20,AQUARIUS,YES,VERY HAPPY,PRETTY HAPPY,1
+48,39,Male,14,22500,Continue working,Very satisfied,Exciting,Very important,40,Junior college,Agree,Very satisfied,MARRIED,30,LIBRA,YES,VERY HAPPY,VERY HAPPY,2
+49,40,Female,12,40000,Stop working,Very satisfied,Exciting,Very important,35,High school,Disagree,Very satisfied,MARRIED,19,VIRGO,YES,VERY HAPPY,VERY HAPPY,1
+50,37,Male,17,22500,Stop working,Mod satisfied,Exciting,One of most important,40,Bachelor,Agree,Not very satisfied,MARRIED,22,LIBRA,YES,PRETTY HAPPY,PRETTY HAPPY,1
+51,27,Female,14,30000,Continue working,Mod satisfied,Routine,One of most important,40,Junior college,Disagree,Not very satisfied,MARRIED,20,AQUARIUS,YES,VERY HAPPY,VERY HAPPY,3
+52,27,Male,16,22500,Continue working,Mod satisfied,Routine,Very important,40,Bachelor,Agree,Not very satisfied,MARRIED,25,CAPRICORN,NO,VERY HAPPY,VERY HAPPY,3
+53,63,Male,17,75000,Stop working,Mod satisfied,Exciting,Very important,45,Bachelor,Disagree,Not very satisfied,MARRIED,21,ARIES,YES,VERY HAPPY,VERY HAPPY,2
+54,50,Male,12,40000,Stop working,Very satisfied,Exciting,Very important,50,High school,Disagree,Very satisfied,MARRIED,20,CANCER,YES,PRETTY HAPPY,VERY HAPPY,2
+55,63,Female,12,35000,Stop working,Mod satisfied,Routine,Very important,36,High school,Agree,Not very satisfied,MARRIED,17,PISCES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+56,39,Female,19,50000,Continue working,Very satisfied,Exciting,One of most important,35,Graduate,Disagree,Very satisfied,MARRIED,26,PISCES,NO,PRETTY HAPPY,VERY HAPPY,1
+57,49,Male,17,75000,Continue working,Mod satisfied,Exciting,Very important,36,Bachelor,Agree,Not very satisfied,MARRIED,25,ARIES,YES,VERY HAPPY,PRETTY HAPPY,6
+58,28,Female,14,35000,Stop working,Mod satisfied,Routine,Somewhat important,38,Junior college,Agree,Not very satisfied,MARRIED,21,LIBRA,YES,PRETTY HAPPY,VERY HAPPY,3
+59,37,Male,14,60000,Continue working,A little dissatisfied,Exciting,Very important,42,Junior college,Agree,Not very satisfied,MARRIED,33,GEMINI,YES,PRETTY HAPPY,PRETTY HAPPY,2
+60,43,Female,16,35000,Continue working,Very satisfied,Exciting,Very important,60,Bachelor,Disagree,Very satisfied,MARRIED,21,PISCES,YES,VERY HAPPY,PRETTY HAPPY,0
+61,45,Male,12,50000,Continue working,Mod satisfied,Exciting,Very important,60,High school,Agree,Not very satisfied,MARRIED,23,SAGITTARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,2
+62,52,Female,12,12500,Stop working,A little dissatisfied,Routine,Very important,38,High school,Agree,Not very satisfied,MARRIED,25,CANCER,YES,PRETTY HAPPY,PRETTY HAPPY,1
+63,41,Male,12,35000,Continue working,Very satisfied,Routine,Very important,60,High school,Disagree,Very satisfied,MARRIED,19,AQUARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,2
+64,41,Male,12,30000,Stop working,Mod satisfied,Routine,Somewhat important,42,High school,Disagree,Not very satisfied,MARRIED,24,PISCES,YES,VERY HAPPY,VERY HAPPY,2
+65,26,Male,12,22500,Stop working,Mod satisfied,Routine,Very important,44,High school,Agree,Not very satisfied,MARRIED,21,SAGITTARIUS,YES,PRETTY HAPPY,VERY HAPPY,4
+66,82,Male,16,75000,Continue working,Very satisfied,Routine,Very important,36,Bachelor,Disagree,Very satisfied,MARRIED,26,VIRGO,YES,VERY HAPPY,VERY HAPPY,3
+67,27,Female,16,17500,Continue working,Very satisfied,Routine,Very important,45,Bachelor,Agree,Very satisfied,MARRIED,23,CANCER,YES,NOT TOO HAPPY,PRETTY HAPPY,3
+68,23,Male,12,22500,Continue working,Very satisfied,Routine,Very important,56,High school,Agree,Very satisfied,MARRIED,19,GEMINI,YES,VERY HAPPY,VERY HAPPY,1
+69,47,Male,14,50000,Continue working,Very satisfied,Exciting,Very important,55,Junior college,Disagree,Very satisfied,MARRIED,21,SAGITTARIUS,YES,PRETTY HAPPY,VERY HAPPY,1
+70,46,Male,14,22500,Continue working,A little dissatisfied,Exciting,Very important,75,High school,Disagree,Not very satisfied,MARRIED,27,SCORPIO,YES,PRETTY HAPPY,PRETTY HAPPY,0
+71,47,Male,7,22500,Continue working,Mod satisfied,Routine,One of most important,61,Less than HS,Agree,Not very satisfied,MARRIED,19,TAURUS,NO,PRETTY HAPPY,PRETTY HAPPY,2
+72,46,Female,16,17500,Continue working,Mod satisfied,Exciting,One of most important,40,Bachelor,Disagree,Not very satisfied,MARRIED,27,AQUARIUS,YES,VERY HAPPY,VERY HAPPY,4
+73,56,Male,12,50000,Stop working,Mod satisfied,Exciting,Somewhat important,40,High school,Disagree,Not very satisfied,MARRIED,24,CAPRICORN,YES,VERY HAPPY,VERY HAPPY,4
+74,44,Male,19,6000,Continue working,Very satisfied,Exciting,Very important,20,Bachelor,Agree,Very satisfied,MARRIED,22,VIRGO,NO,VERY HAPPY,VERY HAPPY,2
+75,35,Female,16,75000,Continue working,Very satisfied,Exciting,One of most important,40,Bachelor,Agree,Very satisfied,MARRIED,27,LEO,YES,PRETTY HAPPY,PRETTY HAPPY,2
+76,51,Male,10,30000,Continue working,Mod satisfied,Routine,Very important,50,Less than HS,Agree,Not very satisfied,MARRIED,19,CAPRICORN,NO,PRETTY HAPPY,NOT TOO HAPPY,1
+77,41,Female,15,75000,Continue working,A little dissatisfied,Exciting,Very important,2,Graduate,Agree,Not very satisfied,MARRIED,36,GEMINI,YES,PRETTY HAPPY,VERY HAPPY,5
+78,53,Female,14,50000,Stop working,Very dissatisfied,Routine,Very important,45,High school,Agree,Not very satisfied,MARRIED,23,LEO,YES,NOT TOO HAPPY,VERY HAPPY,3
+79,39,Female,14,35000,Stop working,Very satisfied,Routine,Somewhat important,40,High school,Agree,Very satisfied,MARRIED,20,PISCES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+80,45,Female,14,75000,Stop working,Very satisfied,Routine,Very important,40,High school,Agree,Very satisfied,MARRIED,20,PISCES,NO,PRETTY HAPPY,PRETTY HAPPY,1
+81,44,Male,12,50000,Stop working,Mod satisfied,Exciting,Very important,55,High school,Agree,Not very satisfied,MARRIED,22,SCORPIO,NO,PRETTY HAPPY,PRETTY HAPPY,0
+82,25,Female,12,12500,Continue working,Mod satisfied,Exciting,Somewhat important,24,High school,Agree,Not very satisfied,MARRIED,20,LIBRA,NO,PRETTY HAPPY,NOT TOO HAPPY,2
+83,49,Male,13,75000,Continue working,Very satisfied,Routine,One of most important,40,High school,Agree,Very satisfied,MARRIED,24,CANCER,YES,PRETTY HAPPY,VERY HAPPY,2
+84,39,Male,13,60000,Continue working,Very satisfied,Exciting,Very important,70,High school,Agree,Very satisfied,MARRIED,19,LIBRA,YES,VERY HAPPY,VERY HAPPY,1
+85,45,Male,16,40000,Continue working,Very satisfied,Routine,Very important,40,Bachelor,Agree,Very satisfied,MARRIED,20,SCORPIO,NO,NOT TOO HAPPY,NOT TOO HAPPY,2
+86,53,Male,18,50000,Continue working,Mod satisfied,Exciting,Very important,50,Graduate,Agree,Not very satisfied,MARRIED,27,TAURUS,YES,NOT TOO HAPPY,VERY HAPPY,1
+87,32,Female,9,35000,Stop working,Very satisfied,Routine,One of most important,40,Less than HS,Disagree,Very satisfied,MARRIED,22,PISCES,NO,PRETTY HAPPY,PRETTY HAPPY,3
+88,32,Male,15,35000,Continue working,A little dissatisfied,Routine,Somewhat important,57,High school,Agree,Not very satisfied,MARRIED,26,ARIES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+89,29,Male,18,60000,Continue working,Very satisfied,Exciting,Very important,43,Junior college,Agree,Very satisfied,MARRIED,24,PISCES,NO,NOT TOO HAPPY,VERY HAPPY,6
+90,37,Female,13,75000,Continue working,Mod satisfied,Exciting,One of most important,40,High school,Disagree,Not very satisfied,MARRIED,21,CAPRICORN,YES,VERY HAPPY,VERY HAPPY,1
+91,30,Male,16,30000,Continue working,Very satisfied,Exciting,Very important,37,Bachelor,Disagree,Very satisfied,MARRIED,28,TAURUS,YES,VERY HAPPY,VERY HAPPY,1
+92,58,Male,14,75000,Stop working,Very satisfied,Exciting,Very important,60,High school,Disagree,Very satisfied,MARRIED,21,PISCES,YES,VERY HAPPY,VERY HAPPY,3
+93,41,Female,14,25000,Continue working,Very satisfied,Routine,Somewhat important,20,High school,Agree,Very satisfied,MARRIED,19,LEO,YES,PRETTY HAPPY,PRETTY HAPPY,2
+94,31,Male,14,22500,Continue working,Very satisfied,Routine,Very important,40,High school,Agree,Very satisfied,MARRIED,19,AQUARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,2
+95,38,Male,16,30000,Continue working,Very dissatisfied,Exciting,Very important,40,Bachelor,Agree,Not very satisfied,MARRIED,31,SCORPIO,YES,PRETTY HAPPY,PRETTY HAPPY,0
+96,52,Male,12,40000,Stop working,Mod satisfied,Routine,One of most important,50,High school,Agree,Not very satisfied,MARRIED,20,CANCER,YES,PRETTY HAPPY,VERY HAPPY,4
+97,39,Female,16,25000,Continue working,Mod satisfied,Routine,Very important,40,Bachelor,Disagree,Not very satisfied,MARRIED,26,GEMINI,YES,PRETTY HAPPY,VERY HAPPY,2
+98,45,Male,12,60000,Stop working,Mod satisfied,Routine,Very important,50,High school,Agree,Not very satisfied,MARRIED,25,CANCER,NO,PRETTY HAPPY,VERY HAPPY,4
+99,57,Female,12,35000,Stop working,Very satisfied,Exciting,Very important,8,High school,Disagree,Very satisfied,MARRIED,20,GEMINI,YES,PRETTY HAPPY,PRETTY HAPPY,3
+100,37,Female,14,75000,Stop working,Mod satisfied,Routine,Somewhat important,40,High school,Disagree,Not very satisfied,MARRIED,28,VIRGO,YES,PRETTY HAPPY,PRETTY HAPPY,1
+101,72,Female,12,22500,Continue working,Very satisfied,Routine,Very important,35,High school,Agree,Very satisfied,MARRIED,27,CANCER,NO,PRETTY HAPPY,PRETTY HAPPY,2
+102,33,Male,12,60000,Stop working,A little dissatisfied,Routine,Somewhat important,46,High school,Agree,Not very satisfied,MARRIED,25,SCORPIO,YES,PRETTY HAPPY,PRETTY HAPPY,1
+103,42,Male,12,50000,Stop working,Mod satisfied,Exciting,Not at all important,40,High school,Agree,Not very satisfied,MARRIED,27,VIRGO,YES,PRETTY HAPPY,PRETTY HAPPY,1
+104,32,Female,12,50000,Stop working,Mod satisfied,Routine,Very important,48,High school,Disagree,Not very satisfied,MARRIED,22,SAGITTARIUS,NO,PRETTY HAPPY,VERY HAPPY,2
+105,29,Male,12,75000,Continue working,Mod satisfied,Exciting,One of most important,80,High school,Agree,Not very satisfied,MARRIED,20,TAURUS,YES,PRETTY HAPPY,PRETTY HAPPY,2
+106,23,Male,12,12500,Continue working,Very satisfied,Exciting,Very important,51,High school,Agree,Very satisfied,MARRIED,18,CANCER,YES,NOT TOO HAPPY,VERY HAPPY,2
+107,42,Male,12,35000,Stop working,Very satisfied,Exciting,Very important,42,High school,Agree,Very satisfied,MARRIED,19,CANCER,YES,VERY HAPPY,VERY HAPPY,2
+108,28,Male,12,15000,Continue working,Very satisfied,Exciting,Very important,40,High school,Agree,Very satisfied,MARRIED,27,LIBRA,YES,PRETTY HAPPY,VERY HAPPY,2
+109,58,Male,16,75000,Continue working,Very satisfied,Exciting,Very important,70,Graduate,Disagree,Very satisfied,MARRIED,26,AQUARIUS,YES,VERY HAPPY,VERY HAPPY,4
+110,31,Female,12,60000,Continue working,Very satisfied,Exciting,Somewhat important,40,High school,Disagree,Very satisfied,MARRIED,18,AQUARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,2
+111,26,Female,13,40000,Stop working,Mod satisfied,Routine,Somewhat important,40,High school,Agree,Not very satisfied,MARRIED,19,SCORPIO,YES,PRETTY HAPPY,VERY HAPPY,3
+112,31,Female,12,20000,Stop working,Very satisfied,Exciting,Somewhat important,15,High school,Disagree,Very satisfied,MARRIED,20,SAGITTARIUS,YES,VERY HAPPY,VERY HAPPY,4
+113,36,Male,17,50000,Continue working,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,Not very satisfied,MARRIED,25,LIBRA,NO,VERY HAPPY,VERY HAPPY,2
+114,50,Female,16,60000,Continue working,Very satisfied,Exciting,One of most important,30,Bachelor,Agree,Very satisfied,MARRIED,21,ARIES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+115,37,Male,12,35000,Continue working,Mod satisfied,Exciting,Very important,50,High school,Disagree,Not very satisfied,MARRIED,21,AQUARIUS,YES,PRETTY HAPPY,VERY HAPPY,3
+116,46,Male,14,50000,Stop working,Very satisfied,Exciting,Somewhat important,40,High school,Disagree,Very satisfied,MARRIED,19,SAGITTARIUS,YES,VERY HAPPY,VERY HAPPY,6
+117,33,Male,16,25000,Continue working,A little dissatisfied,Routine,Very important,40,Bachelor,Agree,Not very satisfied,MARRIED,27,ARIES,YES,NOT TOO HAPPY,NOT TOO HAPPY,2
+118,49,Female,15,75000,Continue working,Very satisfied,Exciting,Very important,45,High school,Disagree,Very satisfied,MARRIED,19,LEO,YES,VERY HAPPY,VERY HAPPY,1
+119,46,Male,14,75000,Stop working,A little dissatisfied,Routine,Very important,58,Junior college,Disagree,Not very satisfied,MARRIED,22,AQUARIUS,NO,PRETTY HAPPY,PRETTY HAPPY,2
+120,23,Male,14,22500,Continue working,Very satisfied,Routine,Very important,50,High school,Agree,Very satisfied,MARRIED,21,ARIES,YES,PRETTY HAPPY,NOT TOO HAPPY,5
+121,53,Female,18,75000,Stop working,Very satisfied,Exciting,Very important,40,Graduate,Agree,Very satisfied,MARRIED,18,LEO,NO,VERY HAPPY,VERY HAPPY,2
+122,33,Male,10,35000,Stop working,Very satisfied,Exciting,One of most important,55,Less than HS,Disagree,Very satisfied,MARRIED,23,CAPRICORN,YES,PRETTY HAPPY,PRETTY HAPPY,3
+123,21,Female,15,30000,Continue working,Very satisfied,Exciting,Somewhat important,25,High school,Agree,Very satisfied,MARRIED,20,CANCER,YES,VERY HAPPY,VERY HAPPY,3
+124,40,Male,12,30000,Continue working,Very satisfied,Routine,Very important,50,High school,Agree,Very satisfied,MARRIED,18,SAGITTARIUS,YES,PRETTY HAPPY,PRETTY HAPPY,1
+125,59,Male,12,30000,Stop working,A little dissatisfied,Dull,Very important,40,High school,Agree,Not very satisfied,MARRIED,28,TAURUS,YES,NOT TOO HAPPY,PRETTY HAPPY,0
+126,50,Female,18,75000,Continue working,Very satisfied,Exciting,One of most important,35,Graduate,Disagree,Very satisfied,MARRIED,20,ARIES,YES,VERY HAPPY,VERY HAPPY,2
+127,43,Male,16,35000,Stop working,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,Not very satisfied,MARRIED,21,CANCER,YES,PRETTY HAPPY,VERY HAPPY,1
+128,39,Female,13,50000,Continue working,Mod satisfied,Routine,Very important,65,High school,Agree,Not very satisfied,MARRIED,22,ARIES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+129,42,Male,16,50000,Stop working,Very satisfied,Exciting,Very important,44,Bachelor,Agree,Very satisfied,MARRIED,29,ARIES,NO,VERY HAPPY,VERY HAPPY,1
+130,60,Male,13,60000,Continue working,Mod satisfied,Routine,Very important,60,High school,Agree,Not very satisfied,MARRIED,18,SAGITTARIUS,YES,PRETTY HAPPY,VERY HAPPY,2
+131,28,Female,15,15000,Stop working,Mod satisfied,Exciting,Very important,34,High school,Agree,Not very satisfied,MARRIED,17,LEO,YES,VERY HAPPY,VERY HAPPY,3
+132,32,Female,18,50000,Continue working,Very satisfied,Routine,Not too important,40,Graduate,Disagree,Very satisfied,MARRIED,25,ARIES,YES,PRETTY HAPPY,VERY HAPPY,1
+133,43,Female,12,35000,Stop working,Mod satisfied,Routine,Very important,16,High school,Agree,Not very satisfied,MARRIED,16,TAURUS,YES,PRETTY HAPPY,VERY HAPPY,2
+134,55,Male,16,60000,Continue working,Mod satisfied,Exciting,One of most important,40,Bachelor,Disagree,Not very satisfied,MARRIED,20,GEMINI,YES,VERY HAPPY,VERY HAPPY,3
+135,62,Male,8,12500,Continue working,Mod satisfied,Routine,Very important,45,Less than HS,Disagree,Not very satisfied,MARRIED,21,PISCES,YES,PRETTY HAPPY,PRETTY HAPPY,4
+136,64,Male,8,8000,Continue working,Mod satisfied,Routine,Very important,15,Less than HS,Agree,Not very satisfied,MARRIED,22,LEO,YES,VERY HAPPY,PRETTY HAPPY,3
+137,49,Male,12,60000,Continue working,Very satisfied,Routine,Somewhat important,42,High school,Disagree,Very satisfied,MARRIED,19,VIRGO,YES,VERY HAPPY,PRETTY HAPPY,3
+138,61,Male,12,50000,Continue working,Very satisfied,Routine,Very important,45,High school,Agree,Very satisfied,MARRIED,21,ARIES,YES,VERY HAPPY,VERY HAPPY,4
+139,42,Female,12,30000,Continue working,Mod satisfied,Routine,Very important,44,High school,Disagree,Not very satisfied,MARRIED,19,TAURUS,YES,PRETTY HAPPY,NOT TOO HAPPY,1
+140,26,Female,17,12500,Continue working,Mod satisfied,Exciting,Very important,50,Bachelor,Agree,Not very satisfied,MARRIED,21,LIBRA,YES,VERY HAPPY,VERY HAPPY,6
+141,26,Male,12,30000,Continue working,Very satisfied,Exciting,Very important,45,High school,Agree,Very satisfied,MARRIED,20,PISCES,NO,PRETTY HAPPY,VERY HAPPY,3
+142,58,Male,18,60000,Stop working,Very satisfied,Exciting,Somewhat important,45,Graduate,Agree,Very satisfied,MARRIED,21,PISCES,YES,PRETTY HAPPY,PRETTY HAPPY,2
+143,28,Male,17,75000,Stop working,Mod satisfied,Routine,Somewhat important,60,Graduate,Agree,Not very satisfied,MARRIED,22,SCORPIO,YES,VERY HAPPY,VERY HAPPY,1

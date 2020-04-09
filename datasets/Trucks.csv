@@ -1,0 +1,31 @@
+Vehicle,type,retailprice,resaleval
+Chevrolet Blazer LS,Sport Utility,"19,495",55
+Ford Explorer Sport,Sport Utility,"20,495",57
+GMC Yukon XL 1500,Sport Utility,"26,789",67
+Honda CR-V,Sport Utility,"18,965",65
+Isuzu VehiCross,Sport Utility,"30,186",62
+Jeep Cherokee Limited,Sport Utility,"25,745",57
+Mercury Mountaineer Monterrey,Sport Utility,"29,895",59
+Nissan Pathfinder XE,Sport Utility,"26,919",54
+Toyota 4Runner,Sport Utility,"22,418",55
+Toyota RAV4,Sport Utility,"17,148",55
+Cvevrolet S-10 Extended Cab,Small Pickup,"18,847",46
+Dodge Dakota Club Cab Sport,Small Pickup,"16,870",53
+Ford Ranger XLT Regular Cab,Small Pickup,"18,510",48
+Ford Ranger XLT Supercab,Small Pickup,"20,225",55
+GMC Sonoma Regular Cab,Small Pickup,"16,938",44
+Isuzu Hombre Spacecab,Small Pickup,"18,820",41
+Mazda B4000 SE Cab Plus,Small Pickup,"23,050",51
+Nissan Frontier XE Regular Cab,Small Pickup,"12,110",51
+Toyota Tacoma Xtracab,Small Pickup,"18,228",49
+Toyota Tacoma XtracabV6,Small Pickup,"19,318",50
+Chevrolet K2500,Full-Size Pickup,"24,417",60
+Chevrolet Silverado 2500 Ext,Full-Size Pickup,"24,140",64
+Dodge Ram 1500,Full-Size Pickup,"17,460",54
+Dodge Ram Quad Cab 2500,Full-Size Pickup,"32,770",63
+Dodge Ram Regular Cab 2500,Full-Size Pickup,"23,140",59
+Ford F150 XL,Full-Size Pickup,"22,875",58
+Ford F-350 Super Duty Crew Cab XL,Full-Size Pickup,"34,295",64
+GMC New Sierra 1500 Ext Cab,Full-Size Pickup,"27,089",68
+Toyota Tundara Access Cab Limited,Full-Size Pickup,"25,605",53
+Toyota Tundra Regular Cab,Full-Size Pickup,"15,835",58

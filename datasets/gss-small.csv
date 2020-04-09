@@ -1,0 +1,1501 @@
+age,sex,educ,income91,satjob,life,impjob,hrs1,degree,anomia5,happy
+43,Male,11,$40000-49999,Mod satisfied,Routine,Very important,35,High school,Agree,NOT TOO HAPPY
+44,Male,16,$40000-49999,Very dissatisfied,Exciting,Very important,21,Bachelor,Agree,PRETTY HAPPY
+43,Female,16,$40000-49999,Very satisfied,Exciting,One of most important,45,Bachelor,Agree,VERY HAPPY
+45,Female,15,REFUSED,A little dissatisfied,NA,Very important,20,High school,NA,PRETTY HAPPY
+78,Female,17,$75000+,NA,Exciting,Very important,NA,Graduate,Agree,NA
+83,Male,11,$20000-22499,NA,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+55,Female,12,$50000-59999,Very satisfied,Routine,Very important,35,High school,Agree,PRETTY HAPPY
+75,Male,12,$12500-14999,NA,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+31,Male,18,$75000+,Very satisfied,Exciting,Very important,50,Graduate,Agree,PRETTY HAPPY
+54,Female,18,$10000-12499,Very satisfied,Exciting,One of most important,20,Graduate,NA,VERY HAPPY
+29,Female,18,$30000-34999,Mod satisfied,NA,One of most important,35,Graduate,NA,PRETTY HAPPY
+23,Female,15,$40000-49999,Mod satisfied,Routine,One of most important,60,High school,Agree,PRETTY HAPPY
+61,Female,12,$22500-24999,Mod satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+63,Female,4,$5000-5999,NA,Dull,NA,NA,Less than HS,NA,NOT TOO HAPPY
+33,Female,10,$10000-12499,Mod satisfied,Exciting,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+36,Female,14,$12500-14999,A little dissatisfied,NA,Very important,37,High school,NA,PRETTY HAPPY
+39,Female,8,$5000-5999,Mod satisfied,Exciting,Not at all important,NA,Less than HS,Agree,PRETTY HAPPY
+55,Male,15,REFUSED,Mod satisfied,NA,One of most important,40,High school,NA,VERY HAPPY
+55,Female,16,$75000+,A little dissatisfied,Routine,Very important,38,Bachelor,Disagree,PRETTY HAPPY
+34,Male,16,$75000+,Mod satisfied,NA,Very important,55,Bachelor,NA,PRETTY HAPPY
+36,Female,14,$60000-74999,Very satisfied,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+44,Female,18,$75000+,Very satisfied,Exciting,One of most important,21,Bachelor,Agree,PRETTY HAPPY
+80,Male,18,$40000-49999,NA,NA,Very important,NA,Graduate,NA,NOT TOO HAPPY
+32,Male,16,$25000-29999,Mod satisfied,NA,Very important,32,Bachelor,NA,PRETTY HAPPY
+37,Male,5,$20000-22499,Very satisfied,NA,Very important,30,Less than HS,NA,VERY HAPPY
+49,Female,16,$30000-34999,Mod satisfied,NA,One of most important,80,Bachelor,NA,PRETTY HAPPY
+45,Female,16,$60000-74999,Mod satisfied,Routine,Very important,50,Bachelor,Agree,PRETTY HAPPY
+36,Female,18,$30000-34999,Mod satisfied,Routine,Very important,40,Bachelor,Agree,PRETTY HAPPY
+23,Female,16,$10000-12499,Very satisfied,NA,Very important,21,High school,NA,PRETTY HAPPY
+29,Male,16,$50000-59999,Mod satisfied,Exciting,Very important,50,Graduate,Disagree,PRETTY HAPPY
+30,Female,14,$30000-34999,Mod satisfied,Routine,Not too important,40,Junior college,Agree,PRETTY HAPPY
+40,Female,16,$30000-34999,A little dissatisfied,Exciting,One of most important,60,Bachelor,Disagree,PRETTY HAPPY
+26,Female,11,$30000-34999,Mod satisfied,NA,Very important,35,Less than HS,NA,PRETTY HAPPY
+66,Male,12,$75000+,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+53,Female,14,$40000-49999,Very dissatisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+20,Female,12,$8000-9999,Very satisfied,Exciting,Very important,20,High school,Disagree,VERY HAPPY
+63,Female,12,$10000-12499,A little dissatisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+41,Male,6,$30000-34999,Mod satisfied,Routine,Very important,16,Less than HS,Agree,NOT TOO HAPPY
+33,Female,14,$60000-74999,Very satisfied,Exciting,One of most important,40,High school,Disagree,VERY HAPPY
+34,Male,12,$25000-29999,Mod satisfied,Exciting,Very important,40,High school,Agree,VERY HAPPY
+61,Female,16,$35000-39999,Very satisfied,Exciting,One of most important,89,Bachelor,Disagree,VERY HAPPY
+29,Female,18,$50000-59999,Very satisfied,Exciting,Very important,20,Graduate,NA,VERY HAPPY
+45,Female,13,$60000-74999,Very satisfied,Exciting,Very important,40,High school,Disagree,PRETTY HAPPY
+31,Male,14,$40000-49999,Very satisfied,Exciting,Very important,60,High school,Agree,VERY HAPPY
+28,Male,18,$35000-39999,Mod satisfied,NA,One of most important,40,Graduate,Disagree,PRETTY HAPPY
+34,Female,18,$40000-49999,Mod satisfied,Exciting,Very important,40,Graduate,Disagree,VERY HAPPY
+45,Female,13,$40000-49999,Very satisfied,Exciting,Very important,20,High school,NA,VERY HAPPY
+35,Female,16,$50000-59999,Very satisfied,NA,Somewhat important,40,Bachelor,NA,VERY HAPPY
+48,Male,16,$50000-59999,Very satisfied,Exciting,Very important,20,Bachelor,Disagree,VERY HAPPY
+39,Male,19,$50000-59999,Mod satisfied,Exciting,One of most important,40,Graduate,Agree,VERY HAPPY
+20,Male,13,$50000-59999,NA,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+27,Female,15,$15000-17499,A little dissatisfied,Dull,Very important,62,High school,Agree,PRETTY HAPPY
+36,Male,12,$8000-9999,Mod satisfied,Routine,Very important,20,High school,Agree,PRETTY HAPPY
+78,Male,15,$50000-59999,NA,Exciting,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+42,Female,12,$30000-34999,Very satisfied,Exciting,One of most important,50,High school,Agree,VERY HAPPY
+31,Female,16,$30000-34999,Mod satisfied,Routine,Very important,40,Bachelor,Agree,NOT TOO HAPPY
+44,Female,16,$40000-49999,Mod satisfied,NA,One of most important,40,Bachelor,NA,VERY HAPPY
+39,Male,12,$40000-49999,Mod satisfied,Routine,One of most important,40,High school,NA,PRETTY HAPPY
+19,Female,11,LT $1000,Mod satisfied,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+37,Female,12,$50000-59999,Very satisfied,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+48,Female,16,$75000+,Very satisfied,Exciting,Very important,NA,Bachelor,Agree,VERY HAPPY
+39,Female,15,$75000+,Very satisfied,NA,One of most important,50,High school,NA,NOT TOO HAPPY
+45,Male,14,$75000+,Mod satisfied,Exciting,One of most important,22,High school,Agree,PRETTY HAPPY
+46,Male,20,$75000+,Mod satisfied,Exciting,One of most important,50,Graduate,Agree,VERY HAPPY
+23,Female,16,$75000+,Mod satisfied,Exciting,One of most important,60,Bachelor,NA,VERY HAPPY
+37,Female,16,$75000+,Mod satisfied,Exciting,Somewhat important,10,Bachelor,Disagree,VERY HAPPY
+27,Male,13,$50000-59999,Very satisfied,Routine,One of most important,55,High school,Agree,PRETTY HAPPY
+23,Female,16,$35000-39999,A little dissatisfied,Exciting,Very important,35,Bachelor,Agree,PRETTY HAPPY
+31,Male,16,$35000-39999,Very satisfied,Exciting,One of most important,56,Bachelor,Agree,PRETTY HAPPY
+30,Female,14,$50000-59999,Very satisfied,Routine,Not too important,NA,Junior college,Disagree,PRETTY HAPPY
+77,Male,16,$50000-59999,NA,Routine,One of most important,NA,Bachelor,Agree,PRETTY HAPPY
+41,Male,13,$50000-59999,Very dissatisfied,Exciting,Somewhat important,20,High school,Agree,VERY HAPPY
+70,Female,12,$12500-14999,Very satisfied,Exciting,Somewhat important,29,Less than HS,Disagree,VERY HAPPY
+81,Male,8,$15000-17499,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+41,Male,12,$35000-39999,Mod satisfied,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+41,Female,12,$8000-9999,Very satisfied,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+69,Female,12,$1000-2999,NA,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+41,Female,12,$5000-5999,Mod satisfied,Routine,One of most important,NA,High school,Agree,NOT TOO HAPPY
+32,Female,9,$8000-9999,Very satisfied,Dull,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+29,Female,14,$22500-24999,Mod satisfied,NA,Somewhat important,40,Junior college,NA,PRETTY HAPPY
+51,Female,13,$17500-19999,Mod satisfied,Exciting,Very important,NA,High school,Agree,NOT TOO HAPPY
+35,Male,16,$60000-74999,Very satisfied,NA,Somewhat important,50,Bachelor,NA,PRETTY HAPPY
+36,Male,14,$50000-59999,Mod satisfied,Routine,Very important,54,High school,Agree,PRETTY HAPPY
+41,Male,12,$35000-39999,Mod satisfied,NA,Somewhat important,32,High school,NA,PRETTY HAPPY
+62,Female,18,$17500-19999,Mod satisfied,Routine,Very important,55,Bachelor,Agree,PRETTY HAPPY
+44,Male,12,$75000+,Mod satisfied,NA,One of most important,55,High school,NA,PRETTY HAPPY
+64,Female,12,$17500-19999,Very satisfied,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+49,Male,15,$50000-59999,Mod satisfied,Exciting,Very important,50,High school,Disagree,PRETTY HAPPY
+62,Female,12,$35000-39999,Mod satisfied,Routine,Somewhat important,38,High school,Disagree,PRETTY HAPPY
+62,Female,18,$60000-74999,NA,NA,Somewhat important,NA,Graduate,NA,VERY HAPPY
+49,Female,13,REFUSED,Mod satisfied,Exciting,Very important,20,High school,Agree,PRETTY HAPPY
+49,Female,15,$35000-39999,NA,Exciting,Very important,NA,Junior college,Agree,NOT TOO HAPPY
+45,Male,18,$75000+,Mod satisfied,NA,Very important,50,Graduate,NA,VERY HAPPY
+75,Male,16,$35000-39999,NA,Routine,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+75,Male,16,$22500-24999,NA,Routine,Very important,NA,Bachelor,Disagree,VERY HAPPY
+18,Male,11,$40000-49999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+31,Male,16,$35000-39999,Mod satisfied,Routine,Somewhat important,45,Bachelor,Disagree,PRETTY HAPPY
+27,Female,11,$4000-4999,Mod satisfied,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+45,Male,15,$60000-74999,Mod satisfied,Exciting,Somewhat important,50,High school,Disagree,VERY HAPPY
+27,Male,16,$35000-39999,Very satisfied,Exciting,One of most important,80,Bachelor,Disagree,PRETTY HAPPY
+28,Male,13,$30000-34999,Mod satisfied,NA,One of most important,56,High school,NA,PRETTY HAPPY
+52,Male,14,$75000+,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+69,Male,7,$22500-24999,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+43,Male,12,$60000-74999,Mod satisfied,Routine,Somewhat important,50,High school,Agree,VERY HAPPY
+28,Male,16,$50000-59999,Mod satisfied,Routine,Somewhat important,55,Bachelor,Agree,NOT TOO HAPPY
+52,Female,14,$40000-49999,Mod satisfied,Dull,Very important,20,Junior college,Agree,PRETTY HAPPY
+37,Female,17,$60000-74999,Very satisfied,NA,Very important,24,Bachelor,NA,VERY HAPPY
+36,Female,12,REFUSED,Very satisfied,NA,Very important,16,High school,NA,VERY HAPPY
+24,Female,12,$35000-39999,Very satisfied,Routine,Very important,55,High school,Agree,PRETTY HAPPY
+51,Male,19,$75000+,Very satisfied,Exciting,Very important,40,Graduate,Agree,PRETTY HAPPY
+57,Male,17,$75000+,Mod satisfied,Exciting,Very important,60,Bachelor,Disagree,VERY HAPPY
+72,Male,16,$75000+,A little dissatisfied,NA,Very important,40,Bachelor,NA,PRETTY HAPPY
+45,Female,18,$75000+,Mod satisfied,NA,Somewhat important,36,Graduate,NA,PRETTY HAPPY
+32,Male,18,$75000+,Mod satisfied,Exciting,Very important,50,Graduate,Agree,VERY HAPPY
+63,Female,9,$6000-6999,Mod satisfied,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+50,Male,15,$30000-34999,Very satisfied,NA,Very important,40,Junior college,NA,VERY HAPPY
+71,Female,7,$7000-7999,NA,Routine,Very important,NA,Less than HS,Agree,VERY HAPPY
+59,Male,16,$10000-12499,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+30,Male,16,$60000-74999,NA,Routine,One of most important,NA,Bachelor,Disagree,NOT TOO HAPPY
+37,Female,12,$25000-29999,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+54,Female,8,$8000-9999,Very satisfied,Dull,Somewhat important,9,Less than HS,Disagree,NOT TOO HAPPY
+43,Male,6,$40000-49999,A little dissatisfied,Exciting,Very important,50,Less than HS,Agree,VERY HAPPY
+NA,Male,18,REFUSED,Very satisfied,Exciting,One of most important,40,Bachelor,Disagree,VERY HAPPY
+62,Female,12,$40000-49999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+60,Female,14,$75000+,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+60,Male,13,$75000+,Very satisfied,Exciting,Very important,50,High school,Agree,PRETTY HAPPY
+46,Female,16,$75000+,Very satisfied,Exciting,One of most important,80,Bachelor,Agree,VERY HAPPY
+30,Female,12,$7000-7999,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+27,Male,15,$50000-59999,Mod satisfied,Routine,Very important,55,High school,Disagree,VERY HAPPY
+45,Female,12,$40000-49999,A little dissatisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+51,Male,16,NA,Mod satisfied,Routine,Somewhat important,65,Bachelor,Agree,PRETTY HAPPY
+38,Male,16,$60000-74999,Very satisfied,Routine,Very important,40,Bachelor,Agree,VERY HAPPY
+44,Male,20,$60000-74999,Very satisfied,Exciting,One of most important,55,Graduate,Agree,PRETTY HAPPY
+40,Male,18,$60000-74999,Mod satisfied,Routine,Very important,55,Graduate,Agree,PRETTY HAPPY
+51,Male,12,$60000-74999,Very satisfied,Exciting,Very important,60,High school,Disagree,VERY HAPPY
+40,Female,14,REFUSED,Mod satisfied,NA,Somewhat important,35,High school,NA,PRETTY HAPPY
+34,Female,14,$75000+,Very satisfied,NA,Somewhat important,NA,High school,NA,VERY HAPPY
+54,Female,12,$10000-12499,Very satisfied,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+59,Male,20,$75000+,Very satisfied,Exciting,Very important,67,Graduate,Disagree,VERY HAPPY
+36,Male,12,$60000-74999,Very satisfied,Exciting,Very important,75,High school,Disagree,VERY HAPPY
+35,Male,14,$60000-74999,Mod satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+30,Female,14,$60000-74999,Very satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+34,Female,16,$40000-49999,Very satisfied,Exciting,Somewhat important,NA,Bachelor,Disagree,VERY HAPPY
+32,Male,12,NA,Very satisfied,NA,One of most important,60,High school,NA,PRETTY HAPPY
+73,Female,12,$5000-5999,NA,Exciting,One of most important,NA,High school,Disagree,VERY HAPPY
+66,Male,16,$75000+,NA,NA,Very important,NA,Bachelor,NA,PRETTY HAPPY
+33,Female,16,$40000-49999,Mod satisfied,NA,Very important,45,Bachelor,NA,PRETTY HAPPY
+38,Female,17,REFUSED,Very satisfied,NA,Somewhat important,18,Bachelor,NA,VERY HAPPY
+49,Female,20,NA,Mod satisfied,Exciting,Very important,50,Graduate,Agree,VERY HAPPY
+56,Male,18,$75000+,A little dissatisfied,Routine,Very important,40,Graduate,Agree,PRETTY HAPPY
+55,Male,20,$75000+,Very satisfied,Routine,Not at all important,40,Graduate,Agree,PRETTY HAPPY
+61,Female,20,$50000-59999,A little dissatisfied,NA,Somewhat important,40,Graduate,NA,PRETTY HAPPY
+34,Male,16,$8000-9999,Very satisfied,Routine,Very important,51,Bachelor,Disagree,PRETTY HAPPY
+43,Female,17,$15000-17499,Very satisfied,Exciting,Very important,16,Bachelor,Agree,PRETTY HAPPY
+48,Male,16,$75000+,A little dissatisfied,Routine,One of most important,65,Graduate,Agree,PRETTY HAPPY
+43,Female,16,$60000-74999,Very satisfied,Routine,Very important,42,Bachelor,Disagree,VERY HAPPY
+65,Male,15,$35000-39999,NA,Routine,One of most important,NA,High school,Agree,VERY HAPPY
+35,Male,12,$35000-39999,Very satisfied,Exciting,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+82,Female,15,NA,NA,Routine,NA,NA,High school,Disagree,VERY HAPPY
+62,Female,12,NA,Very satisfied,Exciting,Very important,43,High school,Agree,PRETTY HAPPY
+59,Female,12,$12500-14999,Very satisfied,Exciting,Very important,30,High school,Agree,VERY HAPPY
+38,Male,12,$60000-74999,Very satisfied,Routine,One of most important,40,High school,Disagree,PRETTY HAPPY
+43,Female,15,$40000-49999,Mod satisfied,Exciting,One of most important,24,High school,Agree,NOT TOO HAPPY
+31,Male,12,$30000-34999,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+30,Female,14,$75000+,Very satisfied,Exciting,Not too important,NA,High school,Agree,VERY HAPPY
+40,Male,16,$30000-34999,Mod satisfied,Exciting,Very important,50,Bachelor,Agree,NOT TOO HAPPY
+27,Male,17,$30000-34999,A little dissatisfied,Routine,Very important,60,Bachelor,Disagree,PRETTY HAPPY
+52,Male,16,$25000-29999,Mod satisfied,Exciting,One of most important,40,Bachelor,Disagree,VERY HAPPY
+32,Female,12,$75000+,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+70,Male,15,$50000-59999,NA,Routine,Somewhat important,NA,High school,Disagree,VERY HAPPY
+55,Female,13,$60000-74999,Very satisfied,NA,Somewhat important,40,High school,NA,VERY HAPPY
+53,Female,16,$35000-39999,Mod satisfied,Routine,One of most important,40,Bachelor,Agree,VERY HAPPY
+35,Female,12,$20000-22499,Very dissatisfied,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+NA,Female,20,REFUSED,NA,NA,Very important,NA,Graduate,NA,VERY HAPPY
+79,Female,8,$6000-6999,Mod satisfied,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+72,Female,8,$10000-12499,A little dissatisfied,Dull,Very important,20,Less than HS,Agree,NOT TOO HAPPY
+81,Female,6,$5000-5999,NA,Dull,Somewhat important,NA,Less than HS,Disagree,PRETTY HAPPY
+76,Female,14,REFUSED,A little dissatisfied,Routine,NA,NA,Less than HS,Agree,PRETTY HAPPY
+30,Male,16,$60000-74999,Very satisfied,Exciting,Very important,40,Junior college,Agree,VERY HAPPY
+45,Female,12,$35000-39999,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+34,Male,12,$50000-59999,Very satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+71,Male,12,$30000-34999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+43,Female,16,$40000-49999,Very satisfied,Routine,Very important,38,Bachelor,Disagree,PRETTY HAPPY
+37,Male,19,$12500-14999,A little dissatisfied,NA,One of most important,46,Graduate,NA,NOT TOO HAPPY
+80,Female,12,$17500-19999,NA,Routine,Somewhat important,NA,High school,Disagree,NOT TOO HAPPY
+75,Female,12,$25000-29999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+67,Male,14,$25000-29999,NA,NA,NA,NA,High school,NA,PRETTY HAPPY
+42,Female,12,$40000-49999,Very satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+76,Female,12,$20000-22499,Very satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+67,Female,16,$30000-34999,NA,NA,Very important,NA,Graduate,NA,VERY HAPPY
+55,Female,12,$40000-49999,Very satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+66,Male,20,$60000-74999,Very satisfied,NA,Very important,50,Graduate,NA,PRETTY HAPPY
+69,Male,16,$35000-39999,NA,NA,One of most important,NA,Bachelor,NA,VERY HAPPY
+57,Female,14,$40000-49999,Very satisfied,Exciting,Very important,40,Junior college,Disagree,VERY HAPPY
+57,Female,18,$75000+,Very satisfied,Exciting,One of most important,40,Graduate,Disagree,VERY HAPPY
+85,Female,11,$15000-17499,Very satisfied,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+74,Female,14,$25000-29999,NA,NA,Not at all important,NA,Junior college,NA,VERY HAPPY
+36,Male,17,$35000-39999,Very satisfied,Exciting,Very important,40,Bachelor,Agree,PRETTY HAPPY
+32,Female,18,$75000+,Mod satisfied,Routine,Very important,NA,Graduate,Disagree,PRETTY HAPPY
+30,Female,14,$35000-39999,NA,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+59,Female,13,$60000-74999,Very satisfied,Exciting,Somewhat important,32,High school,Agree,PRETTY HAPPY
+39,Male,17,$75000+,Very satisfied,Exciting,Very important,60,Bachelor,Agree,VERY HAPPY
+49,Female,14,$30000-34999,Very satisfied,Exciting,One of most important,40,High school,Disagree,VERY HAPPY
+51,Female,13,$15000-17499,Mod satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+73,Female,10,$7000-7999,NA,NA,Not at all important,NA,Less than HS,NA,PRETTY HAPPY
+47,Male,6,$8000-9999,NA,Routine,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+53,Male,18,$60000-74999,Very satisfied,Exciting,One of most important,50,Graduate,Disagree,PRETTY HAPPY
+41,Female,13,$60000-74999,Mod satisfied,Exciting,Somewhat important,40,High school,Agree,VERY HAPPY
+38,Male,11,$25000-29999,Very dissatisfied,NA,One of most important,32,Less than HS,NA,PRETTY HAPPY
+54,Female,12,$50000-59999,Very satisfied,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+58,Male,17,$60000-74999,Very satisfied,NA,One of most important,15,Graduate,NA,VERY HAPPY
+33,Female,15,$12500-14999,Mod satisfied,NA,Not too important,24,High school,NA,PRETTY HAPPY
+71,Female,6,$10000-12499,Very satisfied,Routine,Very important,24,Less than HS,Agree,VERY HAPPY
+59,Female,12,REFUSED,Mod satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+33,Female,14,$75000+,Very dissatisfied,Routine,Very important,40,High school,Disagree,VERY HAPPY
+50,Male,12,$60000-74999,Very satisfied,Exciting,One of most important,40,High school,Disagree,PRETTY HAPPY
+51,Female,14,$75000+,Mod satisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+60,Female,12,$75000+,Mod satisfied,Exciting,Very important,40,High school,Agree,VERY HAPPY
+69,Female,12,$15000-17499,NA,Dull,Very important,NA,High school,Disagree,PRETTY HAPPY
+41,Female,17,$75000+,Mod satisfied,NA,One of most important,52,Bachelor,NA,NOT TOO HAPPY
+57,Male,12,$25000-29999,Very satisfied,Exciting,One of most important,40,High school,Disagree,PRETTY HAPPY
+77,Female,10,$40000-49999,Very satisfied,Exciting,Not too important,NA,Less than HS,Agree,PRETTY HAPPY
+50,Female,12,REFUSED,Very satisfied,NA,Not too important,35,High school,NA,VERY HAPPY
+41,Female,12,NA,NA,Routine,Not too important,NA,High school,Disagree,VERY HAPPY
+50,Female,16,REFUSED,Mod satisfied,NA,Somewhat important,15,Bachelor,NA,PRETTY HAPPY
+53,Female,13,REFUSED,Very satisfied,NA,Somewhat important,14,High school,NA,VERY HAPPY
+34,Male,16,REFUSED,A little dissatisfied,Routine,One of most important,55,Bachelor,Disagree,PRETTY HAPPY
+47,Female,12,$60000-74999,Mod satisfied,Exciting,Very important,55,High school,Agree,PRETTY HAPPY
+45,Female,14,$40000-49999,Very satisfied,Exciting,Very important,20,Junior college,Agree,PRETTY HAPPY
+35,Male,19,$25000-29999,Very satisfied,Exciting,Very important,60,Graduate,Disagree,VERY HAPPY
+72,Male,8,REFUSED,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+37,Male,14,$35000-39999,Very satisfied,Exciting,Somewhat important,48,Junior college,Disagree,PRETTY HAPPY
+41,Female,17,$35000-39999,Very satisfied,NA,Very important,NA,Bachelor,NA,NOT TOO HAPPY
+27,Female,14,$30000-34999,Very satisfied,Routine,Very important,60,High school,Agree,PRETTY HAPPY
+27,Female,16,$25000-29999,Mod satisfied,Routine,Very important,40,Bachelor,Agree,VERY HAPPY
+50,Male,14,$75000+,Mod satisfied,NA,One of most important,65,Junior college,NA,VERY HAPPY
+28,Male,16,$50000-59999,Very dissatisfied,Routine,Very important,40,Bachelor,Disagree,PRETTY HAPPY
+31,Male,16,$40000-49999,Very dissatisfied,Routine,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+51,Male,12,$25000-29999,Very satisfied,Routine,Very important,46,High school,Agree,NOT TOO HAPPY
+25,Female,9,$3000-3999,Very satisfied,NA,One of most important,20,Less than HS,NA,NOT TOO HAPPY
+41,Male,11,$20000-22499,Mod satisfied,Routine,One of most important,40,Less than HS,Agree,NOT TOO HAPPY
+26,Male,15,$15000-17499,Mod satisfied,NA,One of most important,40,High school,NA,VERY HAPPY
+20,Female,12,$35000-39999,A little dissatisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+21,Female,12,$10000-12499,A little dissatisfied,Dull,One of most important,NA,High school,Agree,PRETTY HAPPY
+43,Male,16,$75000+,Mod satisfied,Routine,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+44,Male,16,$60000-74999,Very satisfied,Exciting,Very important,40,Bachelor,Agree,VERY HAPPY
+43,Female,15,$75000+,Very satisfied,NA,Very important,20,High school,NA,PRETTY HAPPY
+39,Male,15,$60000-74999,Very satisfied,Exciting,Somewhat important,50,High school,Disagree,VERY HAPPY
+54,Female,16,$50000-59999,Very satisfied,Routine,Very important,40,Bachelor,Agree,PRETTY HAPPY
+47,Female,14,$40000-49999,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+77,Female,15,$40000-49999,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+47,Female,18,REFUSED,Very satisfied,Exciting,Very important,40,Graduate,Agree,PRETTY HAPPY
+27,Female,9,$8000-9999,Mod satisfied,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+39,Male,10,$25000-29999,Very satisfied,Exciting,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+54,Female,12,NA,NA,Routine,Somewhat important,NA,High school,Disagree,PRETTY HAPPY
+44,Female,12,$1000-2999,Mod satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+27,Female,14,$12500-14999,Very satisfied,NA,Very important,10,High school,NA,PRETTY HAPPY
+37,Female,12,$22500-24999,Mod satisfied,Routine,One of most important,40,High school,Agree,PRETTY HAPPY
+52,Female,9,$40000-49999,A little dissatisfied,NA,Not too important,59,Less than HS,NA,VERY HAPPY
+76,Female,10,$20000-22499,Very satisfied,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+54,Female,12,$20000-22499,Mod satisfied,Exciting,One of most important,40,High school,Disagree,VERY HAPPY
+65,Male,13,$22500-24999,Very satisfied,Exciting,Somewhat important,24,High school,Agree,PRETTY HAPPY
+71,Female,14,NA,Very satisfied,Exciting,Not at all important,NA,High school,Agree,VERY HAPPY
+49,Female,8,$10000-12499,Very satisfied,Exciting,Very important,24,Less than HS,Agree,NOT TOO HAPPY
+24,Female,12,$60000-74999,Mod satisfied,Routine,Very important,44,High school,Agree,PRETTY HAPPY
+43,Male,13,$35000-39999,Very satisfied,Routine,Very important,45,High school,Disagree,PRETTY HAPPY
+41,Male,15,$75000+,Mod satisfied,Routine,One of most important,40,High school,Agree,PRETTY HAPPY
+41,Female,12,$30000-34999,Very satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+46,Female,12,$35000-39999,Very dissatisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+65,Female,12,$60000-74999,Very satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+33,Male,16,$25000-29999,Very satisfied,Exciting,Very important,45,Bachelor,Agree,VERY HAPPY
+33,Female,14,$17500-19999,Very satisfied,Exciting,Very important,80,Junior college,Disagree,PRETTY HAPPY
+45,Female,12,$30000-34999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+25,Female,18,NA,NA,NA,One of most important,NA,Bachelor,NA,PRETTY HAPPY
+24,Male,16,$12500-14999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,VERY HAPPY
+45,Male,12,$40000-49999,A little dissatisfied,Routine,Very important,44,High school,Disagree,PRETTY HAPPY
+65,Female,12,$17500-19999,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+44,Male,12,$25000-29999,A little dissatisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+30,Female,12,$25000-29999,Very dissatisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+72,Male,8,$8000-9999,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+46,Female,12,$40000-49999,A little dissatisfied,Routine,Somewhat important,50,High school,Agree,PRETTY HAPPY
+64,Female,13,$25000-29999,Very satisfied,NA,Very important,30,High school,NA,PRETTY HAPPY
+75,Male,12,$12500-14999,NA,NA,One of most important,NA,High school,NA,VERY HAPPY
+71,Male,16,$8000-9999,NA,NA,Somewhat important,NA,Bachelor,NA,NOT TOO HAPPY
+41,Female,20,$60000-74999,A little dissatisfied,NA,Very important,60,Graduate,NA,PRETTY HAPPY
+69,Female,12,NA,NA,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+37,Male,18,$75000+,Mod satisfied,Exciting,Very important,56,Graduate,Agree,PRETTY HAPPY
+36,Female,14,$35000-39999,Very satisfied,Exciting,Very important,41,Junior college,Agree,VERY HAPPY
+39,Female,16,$50000-59999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,VERY HAPPY
+52,Male,17,$40000-49999,Mod satisfied,NA,Very important,46,Bachelor,NA,PRETTY HAPPY
+44,Male,14,$40000-49999,Mod satisfied,Routine,Very important,40,Junior college,Disagree,PRETTY HAPPY
+21,Male,13,$50000-59999,NA,Dull,One of most important,NA,High school,Agree,PRETTY HAPPY
+42,Female,12,$50000-59999,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+35,Female,19,$75000+,Very satisfied,Exciting,Very important,45,Graduate,Disagree,PRETTY HAPPY
+26,Male,13,$35000-39999,Mod satisfied,Routine,Somewhat important,52,High school,Agree,PRETTY HAPPY
+48,Female,12,$60000-74999,Very satisfied,Exciting,One of most important,42,High school,Agree,PRETTY HAPPY
+68,Female,13,$10000-12499,NA,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+26,Male,12,$22500-24999,Very satisfied,NA,Very important,30,High school,NA,PRETTY HAPPY
+36,Male,12,$40000-49999,A little dissatisfied,Routine,Not too important,44,High school,Agree,PRETTY HAPPY
+55,Female,12,$8000-9999,NA,Dull,Not at all important,NA,High school,Disagree,NOT TOO HAPPY
+41,Male,14,REFUSED,Mod satisfied,Exciting,Very important,53,High school,Agree,PRETTY HAPPY
+43,Male,12,$30000-34999,Very satisfied,NA,Very important,46,High school,NA,NOT TOO HAPPY
+66,Female,12,$17500-19999,NA,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+29,Female,16,$75000+,Very satisfied,Exciting,Very important,24,Bachelor,Disagree,PRETTY HAPPY
+41,Female,16,$30000-34999,Mod satisfied,Exciting,Very important,40,Bachelor,Agree,PRETTY HAPPY
+19,Female,11,$20000-22499,Mod satisfied,Exciting,Very important,29,Less than HS,Disagree,VERY HAPPY
+47,Male,18,$60000-74999,Very dissatisfied,NA,Somewhat important,65,Graduate,NA,NOT TOO HAPPY
+49,Male,13,$35000-39999,Mod satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+58,Male,12,$35000-39999,Very satisfied,NA,Very important,55,High school,NA,VERY HAPPY
+19,Female,12,NA,Very satisfied,NA,One of most important,40,High school,NA,NOT TOO HAPPY
+35,Male,12,$50000-59999,Very satisfied,Routine,Very important,49,High school,Agree,VERY HAPPY
+30,Female,12,$60000-74999,A little dissatisfied,Routine,One of most important,25,High school,Agree,NOT TOO HAPPY
+42,Male,15,$50000-59999,A little dissatisfied,Routine,Somewhat important,40,Junior college,Agree,PRETTY HAPPY
+54,Female,12,$30000-34999,Very satisfied,Exciting,One of most important,40,High school,Agree,VERY HAPPY
+43,Female,12,$5000-5999,A little dissatisfied,Dull,One of most important,20,High school,Agree,NOT TOO HAPPY
+33,Female,16,$40000-49999,Very satisfied,NA,Very important,40,Bachelor,NA,VERY HAPPY
+21,Male,12,$40000-49999,Mod satisfied,Routine,Very important,28,High school,Disagree,PRETTY HAPPY
+26,Male,12,$15000-17499,Mod satisfied,Exciting,Very important,65,High school,Agree,PRETTY HAPPY
+42,Male,12,NA,Mod satisfied,NA,Very important,42,High school,NA,VERY HAPPY
+34,Male,17,$30000-34999,Very satisfied,NA,Very important,50,Bachelor,NA,VERY HAPPY
+25,Female,15,$35000-39999,Very dissatisfied,Routine,Very important,26,High school,Agree,PRETTY HAPPY
+43,Male,11,$75000+,Very satisfied,Exciting,Very important,42,Less than HS,Disagree,VERY HAPPY
+65,Male,14,$60000-74999,Mod satisfied,Exciting,Very important,40,Junior college,NA,PRETTY HAPPY
+20,Male,12,$1000-2999,Very dissatisfied,Exciting,Somewhat important,20,High school,Agree,PRETTY HAPPY
+22,Female,15,$4000-4999,Mod satisfied,NA,One of most important,30,High school,NA,PRETTY HAPPY
+23,Female,15,$1000-2999,NA,Routine,One of most important,NA,High school,Disagree,PRETTY HAPPY
+22,Female,15,$5000-5999,Very satisfied,Routine,Very important,22,Junior college,Agree,PRETTY HAPPY
+22,Male,15,$3000-3999,Very satisfied,Exciting,Very important,25,High school,Agree,PRETTY HAPPY
+20,Female,13,$1000-2999,NA,Exciting,Somewhat important,NA,High school,Agree,VERY HAPPY
+41,Male,13,$35000-39999,Mod satisfied,Routine,Very important,40,High school,Disagree,PRETTY HAPPY
+21,Female,11,$8000-9999,Very satisfied,NA,One of most important,NA,Less than HS,NA,VERY HAPPY
+33,Male,12,$60000-74999,Mod satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+87,Female,12,NA,Very satisfied,Exciting,Somewhat important,NA,High school,Disagree,VERY HAPPY
+77,Female,12,REFUSED,NA,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+40,Male,12,$30000-34999,Mod satisfied,NA,Very important,55,Less than HS,NA,PRETTY HAPPY
+25,Male,16,$25000-29999,Mod satisfied,Exciting,Very important,48,Bachelor,NA,PRETTY HAPPY
+51,Male,12,$17500-19999,Very satisfied,Exciting,One of most important,55,High school,Disagree,VERY HAPPY
+32,Female,13,$40000-49999,Mod satisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+30,Female,14,$40000-49999,Mod satisfied,Routine,Very important,NA,High school,Disagree,VERY HAPPY
+86,Male,8,$10000-12499,NA,Routine,Somewhat important,NA,Less than HS,Disagree,PRETTY HAPPY
+40,Female,16,$75000+,Mod satisfied,Exciting,One of most important,NA,High school,Disagree,VERY HAPPY
+46,Female,12,$3000-3999,Very satisfied,NA,Very important,20,High school,NA,PRETTY HAPPY
+40,Female,12,$40000-49999,Very satisfied,Exciting,One of most important,40,High school,Disagree,VERY HAPPY
+43,Male,10,$75000+,Very satisfied,NA,Very important,56,Less than HS,NA,VERY HAPPY
+46,Male,12,$40000-49999,Mod satisfied,Routine,One of most important,50,High school,Disagree,VERY HAPPY
+70,Female,13,$20000-22499,NA,NA,Somewhat important,NA,High school,NA,VERY HAPPY
+32,Male,12,$50000-59999,Mod satisfied,NA,Very important,45,High school,NA,PRETTY HAPPY
+37,Male,12,$50000-59999,Very satisfied,Exciting,One of most important,60,High school,Disagree,VERY HAPPY
+53,Male,12,$12500-14999,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+32,Female,12,$1000-2999,Very satisfied,NA,One of most important,NA,High school,NA,VERY HAPPY
+52,Male,6,$30000-34999,Very satisfied,NA,Very important,45,Less than HS,NA,VERY HAPPY
+43,Female,12,$6000-6999,Mod satisfied,Exciting,Very important,NA,High school,Agree,NOT TOO HAPPY
+25,Male,12,$20000-22499,Very satisfied,Exciting,One of most important,48,High school,Agree,VERY HAPPY
+46,Male,12,$40000-49999,Very satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+66,Female,14,$25000-29999,Very satisfied,Exciting,Not too important,NA,High school,Disagree,VERY HAPPY
+42,Male,12,$17500-19999,Mod satisfied,Dull,Very important,38,High school,Agree,NOT TOO HAPPY
+38,Male,11,$20000-22499,Very satisfied,Dull,Somewhat important,48,High school,Agree,PRETTY HAPPY
+23,Male,14,$15000-17499,A little dissatisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+35,Female,12,$10000-12499,NA,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+62,Male,14,$60000-74999,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+19,Male,11,$22500-24999,NA,Exciting,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+19,Female,11,$50000-59999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+58,Female,14,$30000-34999,Mod satisfied,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+59,Female,16,$50000-59999,Very satisfied,NA,One of most important,40,Bachelor,NA,VERY HAPPY
+68,Female,9,$15000-17499,Very satisfied,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+47,Male,13,$22500-24999,Mod satisfied,Routine,Very important,56,High school,Disagree,PRETTY HAPPY
+19,Male,11,$40000-49999,NA,Exciting,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+35,Male,11,$25000-29999,Very dissatisfied,Exciting,Very important,35,Less than HS,Agree,PRETTY HAPPY
+44,Female,12,$22500-24999,Very satisfied,Routine,One of most important,40,High school,Agree,PRETTY HAPPY
+41,Female,11,$35000-39999,Very satisfied,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+38,Female,14,$30000-34999,Very satisfied,Routine,Very important,40,Junior college,Agree,PRETTY HAPPY
+36,Female,18,$60000-74999,Very satisfied,NA,Very important,40,Graduate,NA,PRETTY HAPPY
+43,Male,13,$50000-59999,Very satisfied,Exciting,Very important,52,High school,Agree,VERY HAPPY
+35,Female,12,NA,Mod satisfied,NA,NA,NA,Less than HS,NA,NOT TOO HAPPY
+25,Male,12,$1000-2999,A little dissatisfied,Exciting,Very important,48,Less than HS,Disagree,PRETTY HAPPY
+25,Male,14,$35000-39999,A little dissatisfied,Routine,Very important,50,High school,Agree,PRETTY HAPPY
+73,Male,14,NA,Very satisfied,NA,Very important,50,High school,NA,NOT TOO HAPPY
+36,Male,16,REFUSED,Very satisfied,Exciting,Very important,50,Bachelor,Agree,PRETTY HAPPY
+35,Male,13,$75000+,Very satisfied,Routine,One of most important,65,High school,Agree,PRETTY HAPPY
+67,Female,12,$60000-74999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+51,Female,13,$40000-49999,Very satisfied,NA,One of most important,60,High school,NA,VERY HAPPY
+58,Female,12,$10000-12499,Very satisfied,NA,One of most important,40,High school,NA,NOT TOO HAPPY
+40,Female,12,$20000-22499,Mod satisfied,Exciting,Very important,44,High school,Disagree,VERY HAPPY
+68,Male,13,$22500-24999,NA,Routine,One of most important,NA,Less than HS,Disagree,PRETTY HAPPY
+19,Female,8,LT $1000,A little dissatisfied,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+52,Male,12,REFUSED,Very satisfied,Exciting,One of most important,40,High school,Agree,PRETTY HAPPY
+53,Female,13,$75000+,Very satisfied,Exciting,Very important,35,High school,Disagree,VERY HAPPY
+63,Female,14,$17500-19999,Very satisfied,NA,Not at all important,2,Junior college,NA,PRETTY HAPPY
+75,Female,16,$25000-29999,NA,Routine,Somewhat important,NA,Bachelor,Disagree,VERY HAPPY
+38,Female,12,$30000-34999,Mod satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+38,Female,14,$40000-49999,Mod satisfied,NA,Very important,40,Junior college,NA,PRETTY HAPPY
+49,Male,16,$6000-6999,Mod satisfied,Exciting,Very important,30,Bachelor,Agree,PRETTY HAPPY
+50,Female,14,$35000-39999,Mod satisfied,Routine,Very important,16,Junior college,Agree,PRETTY HAPPY
+78,Female,14,$7000-7999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+57,Male,8,$1000-2999,Very satisfied,Routine,Very important,NA,Less than HS,Agree,VERY HAPPY
+69,Female,12,$15000-17499,NA,Exciting,One of most important,NA,High school,Agree,NOT TOO HAPPY
+68,Female,12,$35000-39999,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+58,Male,12,$35000-39999,Very satisfied,NA,One of most important,40,High school,NA,VERY HAPPY
+45,Female,13,$50000-59999,Mod satisfied,Routine,Somewhat important,45,High school,Agree,VERY HAPPY
+20,Male,12,$25000-29999,Mod satisfied,Routine,Very important,42,High school,Agree,PRETTY HAPPY
+78,Male,9,$35000-39999,Mod satisfied,Routine,One of most important,12,Less than HS,Agree,VERY HAPPY
+52,Male,14,$8000-9999,NA,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+39,Male,14,$22500-24999,Very satisfied,Exciting,Very important,40,Junior college,Agree,VERY HAPPY
+81,Female,12,$4000-4999,NA,NA,Not at all important,NA,High school,NA,PRETTY HAPPY
+36,Female,12,$6000-6999,Very satisfied,NA,Somewhat important,22,High school,NA,PRETTY HAPPY
+51,Female,0,$10000-12499,Very satisfied,Routine,Very important,20,Less than HS,Agree,PRETTY HAPPY
+78,Female,18,$30000-34999,Very satisfied,NA,One of most important,40,Bachelor,NA,PRETTY HAPPY
+25,Female,12,$30000-34999,A little dissatisfied,Dull,Very important,40,High school,Agree,PRETTY HAPPY
+36,Male,19,$35000-39999,Mod satisfied,Exciting,Very important,42,Graduate,Agree,PRETTY HAPPY
+33,Female,16,LT $1000,Very satisfied,Exciting,Very important,NA,Bachelor,Disagree,VERY HAPPY
+51,Male,12,$50000-59999,NA,Routine,Not too important,NA,High school,Agree,PRETTY HAPPY
+47,Female,14,$50000-59999,Very satisfied,Exciting,Very important,NA,Junior college,Agree,VERY HAPPY
+21,Female,13,$50000-59999,Mod satisfied,Exciting,Very important,35,High school,Agree,VERY HAPPY
+59,Female,12,$30000-34999,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+23,Female,11,NA,Very satisfied,Routine,Very important,36,Less than HS,Disagree,PRETTY HAPPY
+76,Male,7,$30000-34999,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+40,Female,12,$40000-49999,Very satisfied,Exciting,Very important,35,High school,Disagree,VERY HAPPY
+38,Female,12,$10000-12499,Very satisfied,Routine,Somewhat important,NA,High school,NA,VERY HAPPY
+66,Female,12,$6000-6999,Mod satisfied,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+73,Female,7,$4000-4999,NA,Exciting,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+80,Male,8,$3000-3999,NA,NA,Not at all important,NA,Less than HS,NA,PRETTY HAPPY
+57,Female,6,$4000-4999,NA,NA,Not at all important,NA,Less than HS,NA,NOT TOO HAPPY
+78,Female,11,$6000-6999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+66,Female,12,$4000-4999,NA,Routine,Not too important,NA,High school,Agree,PRETTY HAPPY
+88,Male,12,$30000-34999,NA,Routine,Very important,NA,High school,Disagree,VERY HAPPY
+58,Female,12,$35000-39999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+39,Male,12,$20000-22499,Very dissatisfied,NA,Not too important,NA,High school,NA,PRETTY HAPPY
+31,Female,12,$17500-19999,Mod satisfied,NA,Very important,47,High school,NA,PRETTY HAPPY
+51,Female,16,$25000-29999,Very satisfied,NA,Somewhat important,40,Bachelor,NA,VERY HAPPY
+37,Male,17,$22500-24999,Mod satisfied,Exciting,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+32,Female,12,$20000-22499,Mod satisfied,Routine,Very important,18,High school,Disagree,PRETTY HAPPY
+73,Female,8,$6000-6999,NA,Routine,Very important,NA,Less than HS,Agree,VERY HAPPY
+47,Male,16,$50000-59999,Very dissatisfied,NA,Somewhat important,60,Bachelor,NA,PRETTY HAPPY
+71,Female,16,REFUSED,Very satisfied,Routine,Very important,NA,Bachelor,Agree,VERY HAPPY
+42,Male,14,$10000-12499,Very satisfied,Exciting,One of most important,NA,Junior college,Agree,NOT TOO HAPPY
+75,Female,12,$10000-12499,NA,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+72,Female,10,$4000-4999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+63,Female,16,$50000-59999,NA,NA,Very important,NA,Bachelor,NA,VERY HAPPY
+89,Female,8,$10000-12499,NA,NA,Not at all important,NA,Less than HS,NA,PRETTY HAPPY
+49,Male,4,$12500-14999,NA,Routine,Not too important,NA,Less than HS,Agree,PRETTY HAPPY
+64,Male,12,$25000-29999,Very satisfied,Routine,Very important,40,High school,Disagree,PRETTY HAPPY
+64,Female,12,$20000-22499,NA,NA,One of most important,NA,High school,NA,VERY HAPPY
+46,Male,12,$35000-39999,NA,Dull,Not at all important,NA,High school,Agree,PRETTY HAPPY
+76,Female,8,$6000-6999,NA,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+72,Female,12,$10000-12499,NA,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+77,Female,13,REFUSED,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+27,Female,14,$30000-34999,Mod satisfied,Routine,One of most important,40,Junior college,Disagree,VERY HAPPY
+21,Female,9,$10000-12499,Very dissatisfied,Exciting,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+32,Female,20,$15000-17499,Mod satisfied,Routine,Very important,60,Bachelor,Disagree,PRETTY HAPPY
+40,Male,20,$50000-59999,Very satisfied,NA,One of most important,48,Graduate,NA,NOT TOO HAPPY
+45,Female,17,$50000-59999,Very satisfied,Exciting,One of most important,55,Bachelor,Disagree,PRETTY HAPPY
+26,Female,12,$35000-39999,Very satisfied,NA,Very important,40,High school,NA,NOT TOO HAPPY
+84,Female,16,$10000-12499,NA,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+46,Female,20,$30000-34999,Very satisfied,Exciting,One of most important,60,Graduate,Disagree,VERY HAPPY
+32,Female,18,$17500-19999,Mod satisfied,Routine,Very important,50,Graduate,Disagree,VERY HAPPY
+36,Male,16,$35000-39999,Very satisfied,Routine,Very important,36,Bachelor,Agree,NOT TOO HAPPY
+21,Female,14,$1000-2999,NA,Exciting,One of most important,NA,High school,Disagree,VERY HAPPY
+30,Female,14,$20000-22499,Very dissatisfied,Dull,Very important,40,High school,Agree,NOT TOO HAPPY
+23,Female,16,$4000-4999,Very satisfied,Exciting,Very important,16,High school,Disagree,PRETTY HAPPY
+51,Female,12,$17500-19999,Mod satisfied,Routine,Somewhat important,35,High school,Agree,VERY HAPPY
+40,Male,19,$75000+,Mod satisfied,Exciting,Very important,45,Graduate,Agree,PRETTY HAPPY
+51,Male,16,$75000+,Very dissatisfied,NA,Very important,60,Bachelor,NA,PRETTY HAPPY
+54,Female,16,$50000-59999,Very satisfied,Exciting,Very important,38,Bachelor,Disagree,VERY HAPPY
+61,Female,12,$75000+,Very satisfied,Routine,Not at all important,NA,High school,Agree,VERY HAPPY
+27,Male,16,$22500-24999,Mod satisfied,Routine,Very important,40,Bachelor,Agree,VERY HAPPY
+55,Female,6,$3000-3999,Very satisfied,NA,One of most important,21,Less than HS,NA,NOT TOO HAPPY
+33,Male,NA,$15000-17499,Very satisfied,Routine,Very important,NA,High school,Agree,VERY HAPPY
+61,Female,8,$17500-19999,Very satisfied,Routine,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+38,Female,12,$15000-17499,Very satisfied,NA,Very important,33,High school,NA,PRETTY HAPPY
+36,Female,12,$30000-34999,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+50,Female,12,$3000-3999,Very dissatisfied,Routine,Very important,15,High school,Agree,PRETTY HAPPY
+67,Female,4,$8000-9999,NA,NA,One of most important,NA,Less than HS,NA,VERY HAPPY
+81,Female,13,$30000-34999,NA,Routine,Not too important,NA,High school,Agree,PRETTY HAPPY
+63,Male,17,$75000+,Mod satisfied,Exciting,Very important,45,Bachelor,Disagree,VERY HAPPY
+43,Female,18,$30000-34999,Very satisfied,Routine,One of most important,40,Graduate,Agree,PRETTY HAPPY
+47,Male,13,$25000-29999,A little dissatisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+44,Female,14,$40000-49999,A little dissatisfied,Routine,Somewhat important,45,Junior college,Agree,VERY HAPPY
+28,Male,NA,LT $1000,Very satisfied,NA,One of most important,25,High school,NA,PRETTY HAPPY
+32,Female,14,REFUSED,Very satisfied,Exciting,One of most important,60,High school,Agree,VERY HAPPY
+20,Male,13,$10000-12499,Mod satisfied,Routine,Very important,13,High school,Agree,PRETTY HAPPY
+50,Male,12,$40000-49999,Very satisfied,Exciting,Very important,50,High school,Disagree,PRETTY HAPPY
+31,Female,14,$60000-74999,A little dissatisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+62,Female,14,$25000-29999,NA,Exciting,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+66,Male,10,$50000-59999,NA,Exciting,Somewhat important,NA,Less than HS,NA,VERY HAPPY
+29,Male,14,$40000-49999,Very satisfied,Exciting,Very important,60,Junior college,Agree,PRETTY HAPPY
+30,Male,11,$15000-17499,Very satisfied,NA,Very important,45,High school,NA,PRETTY HAPPY
+34,Male,15,$50000-59999,Very dissatisfied,Routine,Very important,40,Junior college,Agree,VERY HAPPY
+63,Female,12,$35000-39999,Mod satisfied,Routine,Very important,36,High school,Agree,PRETTY HAPPY
+55,Female,13,$40000-49999,Very satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+39,Female,11,$10000-12499,Mod satisfied,Routine,One of most important,NA,High school,Agree,NOT TOO HAPPY
+36,Male,13,$15000-17499,A little dissatisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+77,Female,16,$17500-19999,NA,NA,Very important,NA,Bachelor,NA,PRETTY HAPPY
+39,Male,12,$30000-34999,A little dissatisfied,NA,One of most important,55,High school,NA,PRETTY HAPPY
+28,Female,19,$5000-5999,Mod satisfied,Exciting,One of most important,39,Bachelor,Agree,PRETTY HAPPY
+23,Male,15,$22500-24999,Very dissatisfied,NA,One of most important,26,High school,NA,VERY HAPPY
+21,Male,14,$6000-6999,NA,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+63,Male,12,$30000-34999,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+46,Female,14,$60000-74999,Mod satisfied,Exciting,Very important,45,High school,Agree,PRETTY HAPPY
+42,Male,20,$30000-34999,NA,NA,Very important,NA,Graduate,NA,PRETTY HAPPY
+39,Female,19,$50000-59999,Very satisfied,Exciting,One of most important,35,Graduate,Disagree,PRETTY HAPPY
+77,Female,14,REFUSED,Very satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+28,Female,13,$20000-22499,Mod satisfied,Routine,Very important,4,High school,NA,VERY HAPPY
+87,Male,10,$8000-9999,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+49,Male,17,$75000+,Mod satisfied,Exciting,Very important,36,Bachelor,Agree,VERY HAPPY
+56,Female,18,$60000-74999,Mod satisfied,Routine,One of most important,40,Graduate,Agree,PRETTY HAPPY
+28,Male,12,$50000-59999,Very satisfied,Exciting,Very important,42,High school,Agree,PRETTY HAPPY
+30,Female,12,$35000-39999,Very satisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+24,Male,12,$3000-3999,Mod satisfied,Exciting,Very important,57,High school,Agree,PRETTY HAPPY
+37,Female,18,$75000+,Very satisfied,Routine,Very important,50,Graduate,Agree,PRETTY HAPPY
+48,Female,12,$35000-39999,A little dissatisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+77,Female,13,$35000-39999,NA,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+73,Female,19,$25000-29999,NA,Exciting,Not too important,NA,Graduate,Disagree,VERY HAPPY
+65,Female,13,$75000+,NA,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+74,Male,12,$40000-49999,NA,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+22,Female,16,$75000+,Very satisfied,Exciting,One of most important,NA,Junior college,Agree,PRETTY HAPPY
+19,Male,11,$75000+,NA,Routine,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+49,Male,15,$75000+,Mod satisfied,NA,Very important,25,Junior college,NA,PRETTY HAPPY
+74,Female,12,$12500-14999,NA,NA,Somewhat important,NA,High school,NA,NOT TOO HAPPY
+89,Female,16,$6000-6999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+36,Male,9,$30000-34999,Mod satisfied,Routine,Somewhat important,44,Less than HS,Agree,PRETTY HAPPY
+35,Male,12,$20000-22499,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+36,Female,12,$22500-24999,Mod satisfied,Exciting,Very important,40,High school,Disagree,PRETTY HAPPY
+37,Female,13,$22500-24999,A little dissatisfied,Exciting,One of most important,40,High school,Agree,NOT TOO HAPPY
+53,Female,12,$4000-4999,NA,Routine,Somewhat important,NA,High school,Agree,VERY HAPPY
+74,Male,16,$17500-19999,NA,Exciting,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+55,Male,14,$30000-34999,Mod satisfied,Routine,Very important,40,Junior college,Agree,PRETTY HAPPY
+39,Male,16,$40000-49999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,PRETTY HAPPY
+89,Female,7,$1000-2999,NA,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+74,Female,11,$15000-17499,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+89,Male,12,$12500-14999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+72,Male,12,$35000-39999,Very satisfied,Exciting,Very important,40,High school,NA,PRETTY HAPPY
+52,Female,18,$40000-49999,A little dissatisfied,NA,Very important,45,Bachelor,NA,PRETTY HAPPY
+38,Female,13,$40000-49999,Very satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+52,Male,14,$60000-74999,Very satisfied,NA,One of most important,40,Junior college,NA,VERY HAPPY
+76,Male,8,$15000-17499,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+58,Female,13,$15000-17499,Mod satisfied,Routine,Very important,20,High school,Agree,PRETTY HAPPY
+43,Male,13,$30000-34999,Very satisfied,NA,Somewhat important,65,High school,NA,NOT TOO HAPPY
+24,Male,12,$30000-34999,Mod satisfied,NA,Very important,42,High school,NA,PRETTY HAPPY
+74,Female,11,$7000-7999,NA,Dull,Not at all important,NA,High school,NA,PRETTY HAPPY
+56,Female,11,$15000-17499,Very satisfied,Routine,Very important,44,Less than HS,Disagree,PRETTY HAPPY
+73,Female,10,$7000-7999,Mod satisfied,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+39,Male,16,$5000-5999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+87,Male,13,$20000-22499,NA,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+28,Female,14,$35000-39999,Mod satisfied,Routine,Somewhat important,38,Junior college,Agree,PRETTY HAPPY
+40,Male,15,$50000-59999,Very satisfied,NA,Very important,40,Junior college,NA,VERY HAPPY
+24,Male,9,$15000-17499,Very satisfied,Exciting,Very important,37,Less than HS,Agree,PRETTY HAPPY
+49,Male,9,$50000-59999,Mod satisfied,Routine,Very important,45,Less than HS,Agree,PRETTY HAPPY
+42,Female,12,NA,Very satisfied,NA,Somewhat important,6,High school,NA,VERY HAPPY
+64,Male,7,$35000-39999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+63,Female,9,$8000-9999,Mod satisfied,Dull,Somewhat important,NA,Less than HS,Disagree,PRETTY HAPPY
+58,Female,7,LT $1000,A little dissatisfied,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+59,Female,12,$25000-29999,NA,Routine,Very important,NA,High school,Agree,VERY HAPPY
+47,Male,12,$15000-17499,Mod satisfied,NA,Very important,70,High school,NA,PRETTY HAPPY
+88,Female,8,NA,NA,Dull,Very important,NA,Less than HS,NA,PRETTY HAPPY
+82,Male,12,$20000-22499,NA,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+87,Male,13,NA,NA,Routine,Very important,NA,High school,Agree,VERY HAPPY
+43,Male,12,$12500-14999,Very satisfied,Routine,Very important,10,High school,Disagree,PRETTY HAPPY
+35,Female,12,$40000-49999,Very satisfied,Exciting,Very important,45,High school,Agree,VERY HAPPY
+35,Male,12,$30000-34999,Very satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+20,Female,12,NA,Mod satisfied,Routine,Very important,39,High school,Agree,VERY HAPPY
+37,Male,14,$60000-74999,A little dissatisfied,Exciting,Very important,42,Junior college,Agree,PRETTY HAPPY
+24,Female,14,$17500-19999,A little dissatisfied,Exciting,Very important,25,High school,Agree,PRETTY HAPPY
+62,Female,9,$3000-3999,NA,Exciting,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+28,Female,16,$50000-59999,Mod satisfied,Routine,Not too important,NA,Bachelor,Agree,VERY HAPPY
+51,Female,15,$30000-34999,Very satisfied,Exciting,Somewhat important,40,High school,Agree,VERY HAPPY
+44,Female,12,$50000-59999,Mod satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+36,Male,12,$1000-2999,Mod satisfied,Routine,Somewhat important,20,High school,Agree,PRETTY HAPPY
+77,Female,15,$12500-14999,NA,Exciting,One of most important,NA,High school,Disagree,PRETTY HAPPY
+44,Male,16,$50000-59999,Mod satisfied,NA,Very important,60,Bachelor,NA,VERY HAPPY
+73,Male,12,$10000-12499,Mod satisfied,Routine,Very important,17,High school,Agree,PRETTY HAPPY
+28,Male,16,$22500-24999,Mod satisfied,Exciting,Very important,40,Bachelor,Agree,VERY HAPPY
+51,Male,13,REFUSED,Very satisfied,Routine,One of most important,52,High school,Disagree,PRETTY HAPPY
+37,Female,12,$30000-34999,Very satisfied,NA,Very important,32,High school,NA,VERY HAPPY
+64,Male,11,$22500-24999,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+74,Female,12,$4000-4999,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+69,Female,12,$35000-39999,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+33,Male,11,$5000-5999,Mod satisfied,NA,Very important,32,Less than HS,NA,PRETTY HAPPY
+56,Female,10,NA,Very satisfied,NA,Somewhat important,NA,Less than HS,NA,VERY HAPPY
+40,Female,12,$22500-24999,Mod satisfied,Routine,Very important,46,High school,Agree,PRETTY HAPPY
+34,Male,10,$15000-17499,Mod satisfied,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+47,Male,12,$40000-49999,Mod satisfied,Routine,Very important,70,High school,Agree,PRETTY HAPPY
+87,Male,11,$7000-7999,NA,Routine,Not too important,NA,Less than HS,Disagree,PRETTY HAPPY
+60,Male,10,LT $1000,Very dissatisfied,Dull,Somewhat important,NA,High school,Agree,NOT TOO HAPPY
+70,Female,6,NA,Very satisfied,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+43,Male,14,$50000-59999,Very satisfied,NA,One of most important,50,High school,NA,PRETTY HAPPY
+43,Female,16,$35000-39999,Very satisfied,Exciting,Very important,60,Bachelor,Disagree,VERY HAPPY
+21,Female,13,$17500-19999,Mod satisfied,NA,One of most important,30,High school,NA,PRETTY HAPPY
+72,Female,9,$4000-4999,Mod satisfied,Routine,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+81,Female,13,$12500-14999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+82,Female,12,$22500-24999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+86,Female,8,$5000-5999,Mod satisfied,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+27,Male,13,$8000-9999,A little dissatisfied,Routine,One of most important,70,Junior college,Disagree,PRETTY HAPPY
+77,Female,8,$8000-9999,Mod satisfied,NA,Not too important,NA,Less than HS,NA,PRETTY HAPPY
+71,Male,8,$12500-14999,NA,Routine,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+39,Male,16,$17500-19999,Very satisfied,Exciting,One of most important,80,Bachelor,Disagree,VERY HAPPY
+45,Male,12,$30000-34999,Mod satisfied,NA,One of most important,50,High school,NA,PRETTY HAPPY
+35,Female,14,REFUSED,Mod satisfied,Routine,Very important,55,High school,NA,PRETTY HAPPY
+42,Female,14,$50000-59999,Very satisfied,Routine,One of most important,NA,High school,Agree,VERY HAPPY
+65,Male,12,$30000-34999,Mod satisfied,Routine,NA,50,High school,Agree,VERY HAPPY
+26,Male,16,$60000-74999,A little dissatisfied,NA,Very important,NA,Bachelor,NA,PRETTY HAPPY
+45,Male,12,$50000-59999,Mod satisfied,Exciting,Very important,60,High school,Agree,PRETTY HAPPY
+46,Female,12,REFUSED,A little dissatisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+47,Female,11,$10000-12499,Very satisfied,Exciting,Very important,36,High school,Agree,PRETTY HAPPY
+27,Female,10,$22500-24999,Mod satisfied,Routine,Not too important,NA,Less than HS,Agree,PRETTY HAPPY
+30,Male,12,$50000-59999,Very satisfied,Exciting,Very important,50,High school,Disagree,PRETTY HAPPY
+25,Female,16,$1000-2999,Mod satisfied,NA,Somewhat important,20,Junior college,NA,PRETTY HAPPY
+29,Female,16,$35000-39999,Mod satisfied,Exciting,Somewhat important,NA,Bachelor,Disagree,VERY HAPPY
+52,Female,12,$25000-29999,Very satisfied,Routine,Very important,NA,High school,Agree,VERY HAPPY
+39,Female,12,$40000-49999,Mod satisfied,NA,Very important,58,High school,NA,PRETTY HAPPY
+52,Female,12,$12500-14999,A little dissatisfied,Routine,Very important,38,High school,Agree,PRETTY HAPPY
+NA,Female,10,REFUSED,Mod satisfied,Routine,Somewhat important,40,Less than HS,Agree,PRETTY HAPPY
+51,Female,12,REFUSED,Mod satisfied,NA,Somewhat important,37,High school,NA,VERY HAPPY
+28,Male,17,$25000-29999,Mod satisfied,Exciting,Somewhat important,55,Bachelor,Disagree,VERY HAPPY
+48,Female,10,REFUSED,A little dissatisfied,NA,Somewhat important,NA,Less than HS,NA,NOT TOO HAPPY
+31,Female,12,$35000-39999,Very satisfied,NA,Very important,16,High school,NA,VERY HAPPY
+37,Female,12,$35000-39999,Very satisfied,Routine,Very important,40,High school,Agree,VERY HAPPY
+55,Male,13,$50000-59999,Mod satisfied,Exciting,Very important,60,High school,Agree,PRETTY HAPPY
+40,Female,12,$15000-17499,Very satisfied,NA,Somewhat important,15,High school,NA,VERY HAPPY
+20,Male,13,NA,Mod satisfied,Exciting,Very important,37,High school,NA,NOT TOO HAPPY
+46,Male,11,$22500-24999,Mod satisfied,NA,Very important,60,High school,NA,NA
+72,Male,12,$10000-12499,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+27,Female,14,NA,NA,Routine,Not too important,NA,Junior college,Disagree,VERY HAPPY
+79,Female,7,$12500-14999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+73,Male,6,$7000-7999,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+75,Female,5,$3000-3999,Mod satisfied,Exciting,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+72,Male,2,$8000-9999,NA,Dull,Somewhat important,NA,Less than HS,Agree,NOT TOO HAPPY
+75,Male,6,$10000-12499,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+63,Male,9,$75000+,Very satisfied,Exciting,Very important,48,Less than HS,Agree,VERY HAPPY
+21,Female,14,$22500-24999,Very satisfied,Routine,Very important,40,High school,NA,VERY HAPPY
+41,Male,12,$15000-17499,Very satisfied,Exciting,Somewhat important,45,High school,Disagree,PRETTY HAPPY
+33,Male,9,$20000-22499,Mod satisfied,Exciting,Very important,44,Less than HS,Agree,VERY HAPPY
+21,Male,12,$4000-4999,Mod satisfied,Exciting,One of most important,20,High school,Agree,PRETTY HAPPY
+29,Female,11,$12500-14999,Very dissatisfied,NA,Very important,70,Less than HS,NA,NOT TOO HAPPY
+18,Female,11,NA,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+73,Male,10,$15000-17499,NA,Routine,Very important,NA,High school,Disagree,NOT TOO HAPPY
+47,Male,8,$1000-2999,Mod satisfied,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+73,Female,8,$12500-14999,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+58,Male,7,$5000-5999,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+40,Female,11,$3000-3999,Very satisfied,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+81,Male,4,REFUSED,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+41,Male,12,$35000-39999,Very satisfied,Routine,Very important,60,High school,Disagree,PRETTY HAPPY
+73,Male,8,REFUSED,NA,Routine,Very important,NA,Less than HS,Disagree,VERY HAPPY
+33,Male,20,$25000-29999,Very satisfied,NA,Very important,65,Graduate,NA,PRETTY HAPPY
+52,Female,16,$75000+,Very satisfied,Exciting,Very important,NA,Bachelor,Agree,NOT TOO HAPPY
+34,Female,16,$20000-22499,NA,Routine,One of most important,NA,Junior college,Agree,PRETTY HAPPY
+58,Female,13,$7000-7999,Mod satisfied,Routine,Very important,38,High school,Disagree,PRETTY HAPPY
+47,Female,12,$4000-4999,Very satisfied,NA,One of most important,NA,High school,NA,NOT TOO HAPPY
+79,Male,16,$20000-22499,NA,Routine,One of most important,NA,Bachelor,Agree,NOT TOO HAPPY
+43,Female,14,$25000-29999,Mod satisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+63,Female,14,$40000-49999,NA,NA,Not too important,NA,High school,NA,VERY HAPPY
+85,Male,2,$12500-14999,NA,Routine,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+45,Female,14,REFUSED,Very satisfied,Routine,Very important,40,Junior college,Agree,PRETTY HAPPY
+26,Male,13,$22500-24999,Very satisfied,NA,Very important,44,High school,NA,VERY HAPPY
+42,Male,14,$40000-49999,Very satisfied,NA,Very important,46,Junior college,NA,VERY HAPPY
+41,Male,12,$30000-34999,Mod satisfied,Routine,Somewhat important,42,High school,Disagree,VERY HAPPY
+53,Male,7,$10000-12499,NA,Dull,Somewhat important,NA,Less than HS,Agree,NOT TOO HAPPY
+68,Male,8,$30000-34999,NA,NA,Somewhat important,NA,Less than HS,NA,VERY HAPPY
+49,Female,9,$10000-12499,A little dissatisfied,Dull,One of most important,NA,Less than HS,Disagree,VERY HAPPY
+41,Male,12,$17500-19999,Mod satisfied,Exciting,Very important,24,High school,Agree,PRETTY HAPPY
+81,Male,4,$6000-6999,NA,Routine,One of most important,NA,Less than HS,Agree,VERY HAPPY
+65,Female,13,NA,NA,Exciting,Not too important,NA,High school,Agree,VERY HAPPY
+42,Female,14,$35000-39999,Mod satisfied,Exciting,Very important,40,Junior college,Agree,VERY HAPPY
+26,Male,12,$22500-24999,Mod satisfied,Routine,Very important,44,High school,Agree,PRETTY HAPPY
+20,Female,10,$6000-6999,A little dissatisfied,Routine,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+57,Female,8,$20000-22499,Mod satisfied,Routine,Somewhat important,52,Less than HS,Agree,PRETTY HAPPY
+28,Female,10,$8000-9999,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+50,Female,12,REFUSED,Mod satisfied,NA,Somewhat important,44,High school,NA,VERY HAPPY
+43,Female,18,$75000+,Very satisfied,Exciting,Very important,45,Graduate,Agree,VERY HAPPY
+30,Female,16,$60000-74999,Mod satisfied,Exciting,Somewhat important,40,Bachelor,Disagree,VERY HAPPY
+58,Male,14,$15000-17499,Very satisfied,Routine,Very important,50,Junior college,Disagree,PRETTY HAPPY
+22,Female,16,NA,NA,Exciting,One of most important,NA,Bachelor,Disagree,PRETTY HAPPY
+63,Male,12,$4000-4999,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+65,Female,10,$8000-9999,Very dissatisfied,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+50,Female,9,REFUSED,Mod satisfied,NA,NA,40,Less than HS,NA,PRETTY HAPPY
+75,Female,12,NA,NA,Dull,Very important,NA,High school,Disagree,NOT TOO HAPPY
+54,Female,9,REFUSED,Mod satisfied,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+33,Male,18,REFUSED,Mod satisfied,NA,Somewhat important,40,Bachelor,NA,VERY HAPPY
+36,Male,12,REFUSED,Mod satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+82,Male,16,$75000+,Very satisfied,Routine,Very important,36,Bachelor,Disagree,VERY HAPPY
+36,Female,18,$20000-22499,A little dissatisfied,NA,One of most important,16,Bachelor,NA,PRETTY HAPPY
+48,Female,12,REFUSED,Very dissatisfied,Routine,NA,43,High school,Agree,PRETTY HAPPY
+27,Female,16,$17500-19999,Very satisfied,Routine,Very important,45,Bachelor,Agree,NOT TOO HAPPY
+49,Male,7,$4000-4999,NA,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+55,Male,11,$20000-22499,NA,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+37,Female,13,$10000-12499,Mod satisfied,Exciting,Very important,55,High school,Agree,PRETTY HAPPY
+28,Male,9,$15000-17499,Very dissatisfied,NA,One of most important,NA,Less than HS,NA,NOT TOO HAPPY
+21,Female,12,$25000-29999,Mod satisfied,NA,Not too important,3,High school,NA,PRETTY HAPPY
+39,Female,12,$12500-14999,Very satisfied,Routine,One of most important,75,High school,Agree,PRETTY HAPPY
+63,Male,2,$75000+,Mod satisfied,NA,Very important,25,Less than HS,NA,VERY HAPPY
+23,Male,12,$22500-24999,Very satisfied,Routine,Very important,56,High school,Agree,VERY HAPPY
+18,Female,11,$30000-34999,Mod satisfied,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+24,Male,13,$35000-39999,Mod satisfied,Routine,Very important,NA,High school,Agree,VERY HAPPY
+56,Female,12,$3000-3999,A little dissatisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+31,Male,12,$20000-22499,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+47,Male,14,$50000-59999,Very satisfied,Exciting,Very important,55,Junior college,Disagree,PRETTY HAPPY
+81,Female,10,$6000-6999,NA,Routine,Not at all important,NA,Less than HS,Disagree,PRETTY HAPPY
+76,Female,8,$5000-5999,NA,Dull,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+48,Female,16,$60000-74999,Very satisfied,Exciting,One of most important,NA,Graduate,Agree,VERY HAPPY
+54,Female,7,REFUSED,NA,Routine,Not at all important,NA,Less than HS,Agree,NOT TOO HAPPY
+23,Female,13,$4000-4999,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+60,Female,12,$5000-5999,NA,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+75,Female,0,$1000-2999,NA,Dull,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+75,Female,13,$10000-12499,NA,Routine,Very important,NA,Junior college,Agree,NOT TOO HAPPY
+83,Male,7,$10000-12499,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+46,Male,14,$22500-24999,A little dissatisfied,Exciting,Very important,75,High school,Disagree,PRETTY HAPPY
+35,Female,17,$60000-74999,Very satisfied,NA,One of most important,50,Bachelor,NA,PRETTY HAPPY
+34,Male,13,$25000-29999,Mod satisfied,Routine,Very important,44,High school,Agree,NOT TOO HAPPY
+67,Male,6,$3000-3999,Mod satisfied,Exciting,One of most important,8,Less than HS,Agree,PRETTY HAPPY
+84,Female,10,REFUSED,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+47,Male,7,$22500-24999,Mod satisfied,Routine,One of most important,61,Less than HS,Agree,PRETTY HAPPY
+62,Female,14,NA,NA,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+62,Male,12,$10000-12499,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+81,Female,4,$5000-5999,NA,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+42,Male,12,REFUSED,Very satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+46,Female,11,$15000-17499,Very dissatisfied,Exciting,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+40,Female,15,$25000-29999,Mod satisfied,Routine,One of most important,23,Junior college,Agree,PRETTY HAPPY
+48,Female,13,$35000-39999,NA,NA,Not too important,NA,High school,NA,PRETTY HAPPY
+46,Female,16,$17500-19999,Mod satisfied,Exciting,One of most important,40,Bachelor,Disagree,VERY HAPPY
+20,Male,13,$25000-29999,Very satisfied,Routine,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+73,Female,12,$8000-9999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+38,Female,14,$30000-34999,Very satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+38,Male,12,$25000-29999,Mod satisfied,Routine,One of most important,53,High school,Agree,VERY HAPPY
+76,Female,7,$7000-7999,NA,NA,Not at all important,NA,Less than HS,NA,VERY HAPPY
+56,Male,12,$50000-59999,Mod satisfied,Exciting,Somewhat important,40,High school,Disagree,VERY HAPPY
+74,Male,7,$22500-24999,Very satisfied,Routine,One of most important,23,Less than HS,NA,PRETTY HAPPY
+57,Male,10,$4000-4999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+58,Female,13,$30000-34999,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+76,Female,13,$30000-34999,NA,Exciting,Somewhat important,NA,High school,Agree,VERY HAPPY
+35,Male,16,$75000+,Very satisfied,NA,One of most important,68,Bachelor,NA,VERY HAPPY
+36,Female,13,$22500-24999,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+39,Female,14,$15000-17499,Mod satisfied,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+20,Female,12,$60000-74999,Very satisfied,Exciting,One of most important,35,High school,Agree,PRETTY HAPPY
+43,Male,16,$40000-49999,Very satisfied,Exciting,Very important,70,Bachelor,Disagree,VERY HAPPY
+39,Female,14,$60000-74999,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+48,Male,16,$50000-59999,Mod satisfied,NA,Somewhat important,45,Bachelor,NA,PRETTY HAPPY
+52,Female,13,$40000-49999,Very satisfied,Exciting,Very important,5,High school,Agree,VERY HAPPY
+82,Male,19,$60000-74999,NA,NA,Not too important,NA,Graduate,NA,VERY HAPPY
+44,Male,19,$6000-6999,Very satisfied,Exciting,Very important,20,Bachelor,Agree,VERY HAPPY
+38,Male,14,$35000-39999,Very satisfied,Exciting,Somewhat important,48,Junior college,Agree,VERY HAPPY
+44,Female,13,$17500-19999,Mod satisfied,Exciting,Very important,50,High school,Disagree,VERY HAPPY
+24,Female,17,$20000-22499,NA,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+35,Male,16,$35000-39999,Very satisfied,NA,One of most important,45,Bachelor,NA,VERY HAPPY
+48,Male,12,$8000-9999,NA,Dull,Somewhat important,NA,High school,Agree,NOT TOO HAPPY
+78,Female,7,$5000-5999,NA,Exciting,Somewhat important,NA,Less than HS,Disagree,VERY HAPPY
+24,Male,13,$40000-49999,Mod satisfied,Exciting,Very important,40,High school,NA,PRETTY HAPPY
+29,Female,10,$10000-12499,A little dissatisfied,Routine,Somewhat important,NA,Less than HS,Disagree,NOT TOO HAPPY
+36,Female,14,$30000-34999,Very satisfied,Routine,Not too important,NA,High school,Disagree,NOT TOO HAPPY
+66,Female,15,$25000-29999,NA,Exciting,One of most important,NA,High school,Agree,VERY HAPPY
+54,Female,14,$5000-5999,NA,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+37,Female,18,$22500-24999,Very satisfied,NA,One of most important,60,Graduate,NA,VERY HAPPY
+55,Male,17,$75000+,Very satisfied,NA,One of most important,60,Graduate,NA,VERY HAPPY
+72,Female,12,REFUSED,NA,Routine,Not too important,NA,High school,Agree,PRETTY HAPPY
+78,Female,12,$75000+,NA,Routine,Not at all important,NA,High school,Agree,PRETTY HAPPY
+42,Female,9,LT $1000,NA,Routine,Not too important,NA,Less than HS,Agree,PRETTY HAPPY
+75,Female,5,$4000-4999,NA,Routine,Not at all important,NA,Less than HS,Agree,NOT TOO HAPPY
+38,Female,18,$40000-49999,Very satisfied,Routine,Very important,40,Graduate,Agree,PRETTY HAPPY
+40,Male,15,$22500-24999,Mod satisfied,NA,One of most important,50,Junior college,NA,VERY HAPPY
+62,Female,16,$22500-24999,Mod satisfied,Routine,One of most important,28,Bachelor,Agree,PRETTY HAPPY
+30,Male,20,$60000-74999,Mod satisfied,Routine,One of most important,60,Graduate,Agree,PRETTY HAPPY
+49,Male,20,REFUSED,Very satisfied,Exciting,One of most important,40,Graduate,Disagree,PRETTY HAPPY
+43,Male,18,$75000+,Very satisfied,NA,One of most important,40,Graduate,NA,VERY HAPPY
+41,Male,14,$12500-14999,NA,Routine,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+57,Female,10,$3000-3999,NA,Dull,Not too important,NA,Less than HS,Agree,NOT TOO HAPPY
+30,Female,10,$6000-6999,Very satisfied,NA,Somewhat important,NA,Less than HS,NA,PRETTY HAPPY
+36,Male,8,$10000-12499,Mod satisfied,NA,Somewhat important,NA,Less than HS,NA,PRETTY HAPPY
+52,Female,6,$7000-7999,Mod satisfied,NA,One of most important,20,Less than HS,NA,NOT TOO HAPPY
+NA,Female,12,$75000+,Very satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+47,Male,16,$75000+,A little dissatisfied,NA,Very important,NA,Bachelor,NA,NOT TOO HAPPY
+32,Male,16,$75000+,Very satisfied,Exciting,One of most important,60,Bachelor,Disagree,PRETTY HAPPY
+74,Male,10,REFUSED,NA,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+35,Female,16,$75000+,Very satisfied,Exciting,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+31,Female,16,$50000-59999,Mod satisfied,NA,One of most important,28,Bachelor,NA,PRETTY HAPPY
+40,Male,18,$75000+,Very satisfied,NA,One of most important,65,Graduate,NA,PRETTY HAPPY
+30,Female,16,REFUSED,Mod satisfied,Exciting,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+51,Male,12,$75000+,Mod satisfied,NA,One of most important,35,High school,NA,PRETTY HAPPY
+76,Male,12,$10000-12499,NA,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+56,Male,12,$50000-59999,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+24,Male,15,$50000-59999,Mod satisfied,Exciting,Very important,45,High school,Agree,PRETTY HAPPY
+38,Male,16,$75000+,Very satisfied,Exciting,Very important,60,Bachelor,Disagree,VERY HAPPY
+74,Male,12,$75000+,Mod satisfied,Exciting,Somewhat important,70,High school,NA,VERY HAPPY
+60,Female,16,$75000+,NA,Exciting,Very important,NA,Bachelor,Disagree,PRETTY HAPPY
+63,Female,14,$60000-74999,Very satisfied,NA,Very important,35,Junior college,NA,PRETTY HAPPY
+64,Male,10,$35000-39999,NA,Routine,Very important,NA,Less than HS,Disagree,PRETTY HAPPY
+51,Male,10,$30000-34999,Mod satisfied,Routine,Very important,50,Less than HS,Agree,PRETTY HAPPY
+31,Female,16,NA,Very dissatisfied,NA,One of most important,NA,Bachelor,NA,PRETTY HAPPY
+74,Female,14,$35000-39999,Very satisfied,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+33,Male,16,$50000-59999,Very satisfied,NA,Very important,70,Bachelor,NA,PRETTY HAPPY
+27,Male,20,$30000-34999,Very satisfied,Exciting,Very important,40,Graduate,Disagree,PRETTY HAPPY
+22,Female,12,$25000-29999,Very dissatisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+40,Male,13,$40000-49999,Very satisfied,NA,Somewhat important,45,High school,NA,PRETTY HAPPY
+21,Female,13,$35000-39999,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+33,Female,12,$5000-5999,Mod satisfied,NA,Very important,12,High school,NA,VERY HAPPY
+43,Female,12,$25000-29999,Mod satisfied,Exciting,Very important,50,High school,Agree,PRETTY HAPPY
+25,Female,16,$75000+,Mod satisfied,Routine,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+35,Male,20,$75000+,A little dissatisfied,Exciting,Very important,80,Graduate,Agree,PRETTY HAPPY
+22,Female,16,$75000+,NA,NA,Very important,NA,Bachelor,NA,VERY HAPPY
+39,Male,18,$30000-34999,Mod satisfied,NA,Very important,60,Graduate,NA,PRETTY HAPPY
+40,Male,18,$50000-59999,Mod satisfied,NA,Very important,50,Graduate,NA,PRETTY HAPPY
+66,Male,12,$60000-74999,NA,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+19,Male,13,$75000+,NA,Exciting,NA,NA,High school,Agree,PRETTY HAPPY
+69,Male,12,$22500-24999,NA,Dull,Very important,NA,High school,NA,PRETTY HAPPY
+34,Male,16,$60000-74999,Mod satisfied,NA,Very important,50,Graduate,NA,PRETTY HAPPY
+19,Female,11,$75000+,Mod satisfied,Routine,Very important,21,Less than HS,Disagree,PRETTY HAPPY
+43,Female,16,$75000+,Mod satisfied,Exciting,Not too important,NA,Graduate,Disagree,VERY HAPPY
+77,Female,12,$50000-59999,Very satisfied,Exciting,One of most important,35,High school,Disagree,VERY HAPPY
+89,Male,19,$60000-74999,NA,Dull,Somewhat important,NA,Graduate,NA,VERY HAPPY
+44,Male,16,$60000-74999,Very satisfied,NA,Very important,NA,Bachelor,NA,PRETTY HAPPY
+41,Female,15,$75000+,A little dissatisfied,Exciting,Very important,2,Graduate,Agree,PRETTY HAPPY
+53,Female,17,$30000-34999,NA,Exciting,Very important,NA,Bachelor,Agree,NOT TOO HAPPY
+53,Female,14,$50000-59999,Very dissatisfied,Routine,Very important,45,High school,Agree,NOT TOO HAPPY
+38,Female,16,NA,Very satisfied,Exciting,NA,60,Bachelor,Agree,PRETTY HAPPY
+32,Male,12,$40000-49999,Very satisfied,NA,Very important,40,Less than HS,NA,VERY HAPPY
+39,Female,14,$35000-39999,Very satisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+55,Female,16,$25000-29999,Mod satisfied,Exciting,Somewhat important,NA,Bachelor,Agree,PRETTY HAPPY
+47,Female,11,$40000-49999,Mod satisfied,NA,One of most important,40,Less than HS,NA,PRETTY HAPPY
+43,Male,13,$35000-39999,Very satisfied,NA,Very important,46,High school,NA,PRETTY HAPPY
+37,Male,14,$30000-34999,A little dissatisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+46,Male,15,$50000-59999,Mod satisfied,Exciting,One of most important,60,High school,Agree,PRETTY HAPPY
+32,Male,14,$75000+,Very dissatisfied,NA,One of most important,55,High school,NA,NOT TOO HAPPY
+57,Female,14,$40000-49999,Very satisfied,Exciting,Not too important,80,High school,Agree,VERY HAPPY
+28,Female,17,$60000-74999,Mod satisfied,Exciting,Very important,40,Bachelor,Agree,PRETTY HAPPY
+56,Male,18,$5000-5999,Mod satisfied,Routine,Very important,30,Graduate,Agree,PRETTY HAPPY
+33,Female,14,$10000-12499,Mod satisfied,Exciting,Very important,20,High school,Agree,PRETTY HAPPY
+26,Male,10,$50000-59999,Very satisfied,Exciting,One of most important,50,High school,Agree,PRETTY HAPPY
+45,Female,14,$75000+,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+44,Male,12,$50000-59999,Mod satisfied,Exciting,Very important,55,High school,Agree,PRETTY HAPPY
+54,Female,15,$40000-49999,Very dissatisfied,Exciting,Very important,NA,Junior college,Agree,VERY HAPPY
+46,Female,14,$50000-59999,Mod satisfied,Routine,Very important,41,Junior college,Agree,PRETTY HAPPY
+55,Female,12,$60000-74999,Mod satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+36,Male,16,$50000-59999,Mod satisfied,Exciting,Very important,45,Bachelor,Agree,PRETTY HAPPY
+25,Female,13,$75000+,Mod satisfied,NA,Very important,48,High school,NA,VERY HAPPY
+38,Male,15,LT $1000,A little dissatisfied,NA,Somewhat important,38,High school,NA,NOT TOO HAPPY
+54,Female,9,$7000-7999,NA,Exciting,Not too important,NA,Less than HS,Agree,PRETTY HAPPY
+25,Female,12,$12500-14999,Mod satisfied,Exciting,Somewhat important,24,High school,Agree,PRETTY HAPPY
+35,Female,11,$7000-7999,A little dissatisfied,Routine,Somewhat important,NA,High school,Agree,NOT TOO HAPPY
+36,Female,12,$25000-29999,A little dissatisfied,Dull,Very important,NA,High school,Disagree,NOT TOO HAPPY
+68,Female,12,$20000-22499,NA,Exciting,Somewhat important,NA,High school,Agree,VERY HAPPY
+47,Female,12,$50000-59999,Very satisfied,NA,Somewhat important,20,High school,NA,NA
+49,Male,13,$75000+,Very satisfied,Routine,One of most important,40,High school,Agree,PRETTY HAPPY
+52,Male,10,$25000-29999,Mod satisfied,Exciting,One of most important,40,Less than HS,Disagree,PRETTY HAPPY
+46,Male,14,$40000-49999,Mod satisfied,NA,Somewhat important,NA,Junior college,NA,PRETTY HAPPY
+39,Male,13,$60000-74999,Very satisfied,Exciting,Very important,70,High school,Agree,VERY HAPPY
+67,Female,7,$20000-22499,NA,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+27,Female,16,$75000+,Very satisfied,Exciting,Very important,45,Bachelor,Agree,VERY HAPPY
+71,Female,14,$25000-29999,NA,Exciting,Not too important,NA,Junior college,NA,PRETTY HAPPY
+68,Female,13,REFUSED,NA,Exciting,Somewhat important,NA,High school,Agree,VERY HAPPY
+26,Female,11,$15000-17499,A little dissatisfied,Routine,Very important,20,Less than HS,Agree,PRETTY HAPPY
+38,Female,12,$25000-29999,Very satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+47,Female,13,$12500-14999,NA,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+57,Female,12,$40000-49999,NA,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+38,Male,18,$60000-74999,Mod satisfied,NA,Very important,45,Graduate,NA,NOT TOO HAPPY
+29,Male,14,NA,Mod satisfied,Exciting,Very important,55,High school,Agree,VERY HAPPY
+47,Male,19,$17500-19999,Very dissatisfied,NA,One of most important,60,Graduate,NA,NOT TOO HAPPY
+38,Female,12,$22500-24999,Very satisfied,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+40,Female,12,$35000-39999,A little dissatisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+38,Female,13,$15000-17499,A little dissatisfied,Routine,Very important,35,High school,Agree,PRETTY HAPPY
+22,Male,15,$15000-17499,Very satisfied,Exciting,Very important,20,High school,Disagree,PRETTY HAPPY
+40,Male,12,$40000-49999,Very satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+43,Female,12,$30000-34999,Very satisfied,Routine,Very important,60,High school,Agree,PRETTY HAPPY
+42,Female,13,$25000-29999,Very satisfied,Exciting,Very important,65,High school,Agree,PRETTY HAPPY
+29,Female,12,$7000-7999,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+26,Female,15,$10000-12499,NA,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+45,Male,9,$5000-5999,A little dissatisfied,Routine,Somewhat important,NA,Less than HS,Agree,NOT TOO HAPPY
+60,Male,12,$25000-29999,Mod satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+72,Female,8,$12500-14999,NA,Routine,Somewhat important,NA,Less than HS,Disagree,NOT TOO HAPPY
+31,Female,12,$8000-9999,Very satisfied,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+31,Female,12,$17500-19999,Very dissatisfied,Routine,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+47,Male,6,$25000-29999,Very satisfied,NA,One of most important,40,Less than HS,NA,VERY HAPPY
+28,Female,11,NA,Mod satisfied,Exciting,Somewhat important,NA,High school,Agree,VERY HAPPY
+36,Male,16,$75000+,Mod satisfied,NA,Very important,50,Bachelor,NA,PRETTY HAPPY
+45,Male,16,$40000-49999,Very satisfied,Routine,Very important,40,Bachelor,Agree,NOT TOO HAPPY
+53,Male,18,$50000-59999,Mod satisfied,Exciting,Very important,50,Graduate,Agree,NOT TOO HAPPY
+58,Male,16,$1000-2999,NA,Exciting,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+44,Female,12,$22500-24999,Mod satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+49,Male,16,$75000+,Very satisfied,NA,Somewhat important,40,Bachelor,NA,PRETTY HAPPY
+71,Female,14,$25000-29999,NA,Routine,Very important,NA,High school,Agree,VERY HAPPY
+57,Female,16,$50000-59999,Very satisfied,Exciting,One of most important,40,Bachelor,Disagree,VERY HAPPY
+66,Female,16,$40000-49999,Mod satisfied,Routine,Somewhat important,12,Bachelor,Disagree,VERY HAPPY
+39,Female,12,$40000-49999,Very satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+48,Female,12,$25000-29999,Very satisfied,Routine,Very important,48,High school,Disagree,PRETTY HAPPY
+38,Female,12,$10000-12499,A little dissatisfied,Routine,Very important,14,High school,Agree,NOT TOO HAPPY
+77,Female,12,$30000-34999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+32,Female,9,$35000-39999,Very satisfied,Routine,One of most important,40,Less than HS,Disagree,PRETTY HAPPY
+22,Female,15,REFUSED,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+30,Female,14,$25000-29999,Very dissatisfied,NA,One of most important,NA,High school,NA,VERY HAPPY
+41,Male,15,$8000-9999,Very satisfied,Routine,Very important,40,High school,Disagree,PRETTY HAPPY
+34,Female,14,$22500-24999,Very satisfied,NA,Very important,45,Junior college,NA,PRETTY HAPPY
+26,Female,12,$15000-17499,Mod satisfied,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+39,Female,16,$75000+,Very satisfied,Routine,One of most important,50,Bachelor,Agree,NOT TOO HAPPY
+41,Female,19,$75000+,Very satisfied,NA,Very important,55,Graduate,NA,VERY HAPPY
+68,Female,12,$60000-74999,NA,Routine,Very important,NA,High school,Disagree,PRETTY HAPPY
+41,Female,14,$75000+,Mod satisfied,Routine,Not too important,NA,High school,Disagree,PRETTY HAPPY
+56,Female,10,$25000-29999,Mod satisfied,Exciting,One of most important,40,Less than HS,Disagree,VERY HAPPY
+85,Female,5,$6000-6999,NA,Routine,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+65,Male,11,$4000-4999,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+35,Female,10,$30000-34999,Mod satisfied,NA,One of most important,37,Less than HS,NA,VERY HAPPY
+32,Male,15,$35000-39999,A little dissatisfied,Routine,Somewhat important,57,High school,Agree,PRETTY HAPPY
+49,Female,11,$75000+,Mod satisfied,Exciting,Very important,80,High school,Agree,PRETTY HAPPY
+28,Male,12,$22500-24999,Mod satisfied,Routine,One of most important,52,High school,Disagree,PRETTY HAPPY
+45,Male,19,$75000+,Very satisfied,Routine,Somewhat important,75,Graduate,Agree,VERY HAPPY
+28,Male,18,$60000-74999,Very dissatisfied,NA,Very important,40,Graduate,NA,PRETTY HAPPY
+61,Female,16,$30000-34999,Mod satisfied,Routine,Very important,12,Bachelor,Disagree,PRETTY HAPPY
+35,Male,19,$75000+,A little dissatisfied,NA,Very important,60,Graduate,NA,PRETTY HAPPY
+59,Female,12,$30000-34999,Very satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+31,Female,12,$22500-24999,Very satisfied,NA,One of most important,55,High school,NA,PRETTY HAPPY
+61,Male,12,$17500-19999,NA,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+44,Female,14,$5000-5999,Mod satisfied,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+66,Male,5,$7000-7999,NA,NA,NA,NA,Less than HS,Agree,PRETTY HAPPY
+24,Female,12,NA,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+41,Female,11,$17500-19999,Very satisfied,Exciting,Not too important,40,High school,Agree,PRETTY HAPPY
+36,Male,12,$35000-39999,Mod satisfied,NA,Not too important,40,High school,NA,PRETTY HAPPY
+80,Male,13,$25000-29999,NA,Routine,Not too important,NA,High school,Agree,PRETTY HAPPY
+40,Female,12,$25000-29999,Mod satisfied,Exciting,Somewhat important,16,High school,Agree,PRETTY HAPPY
+31,Female,19,$75000+,Mod satisfied,Exciting,Very important,46,Graduate,Agree,PRETTY HAPPY
+43,Female,13,$1000-2999,Mod satisfied,Exciting,Somewhat important,5,High school,Disagree,VERY HAPPY
+30,Female,14,$30000-34999,Very satisfied,Routine,One of most important,80,Junior college,Agree,PRETTY HAPPY
+29,Male,18,$60000-74999,Very satisfied,Exciting,Very important,43,Junior college,Agree,NOT TOO HAPPY
+65,Female,9,$7000-7999,NA,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+23,Female,12,$25000-29999,Mod satisfied,Routine,Somewhat important,18,High school,Agree,PRETTY HAPPY
+28,Female,13,$25000-29999,Very dissatisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+70,Female,13,$12500-14999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+42,Female,18,$75000+,Very dissatisfied,Routine,One of most important,NA,Graduate,Agree,PRETTY HAPPY
+31,Female,16,$25000-29999,Mod satisfied,NA,Very important,35,Bachelor,NA,PRETTY HAPPY
+50,Female,16,$20000-22499,Mod satisfied,Routine,Very important,40,Bachelor,Agree,PRETTY HAPPY
+50,Male,14,$75000+,Mod satisfied,Dull,Very important,70,Junior college,Agree,NOT TOO HAPPY
+29,Female,12,$30000-34999,Mod satisfied,NA,Not too important,58,High school,NA,PRETTY HAPPY
+25,Male,17,$12500-14999,Very satisfied,NA,Very important,40,Bachelor,NA,PRETTY HAPPY
+39,Female,18,$30000-34999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,PRETTY HAPPY
+66,Female,12,NA,Very satisfied,Routine,One of most important,NA,High school,Agree,VERY HAPPY
+71,Male,20,$40000-49999,NA,Exciting,One of most important,NA,Graduate,Disagree,VERY HAPPY
+38,Male,19,$75000+,Very satisfied,Exciting,Very important,65,Bachelor,Disagree,VERY HAPPY
+39,Male,17,REFUSED,A little dissatisfied,NA,Very important,40,Graduate,NA,PRETTY HAPPY
+37,Female,13,$75000+,Mod satisfied,Exciting,One of most important,40,High school,Disagree,VERY HAPPY
+80,Female,15,$3000-3999,NA,NA,Somewhat important,NA,Junior college,NA,PRETTY HAPPY
+38,Female,14,$20000-22499,Very satisfied,Exciting,One of most important,40,High school,Agree,VERY HAPPY
+65,Male,16,$75000+,Very satisfied,NA,One of most important,60,Bachelor,NA,VERY HAPPY
+58,Male,16,$75000+,Very satisfied,NA,Somewhat important,60,Bachelor,NA,VERY HAPPY
+51,Female,16,NA,Mod satisfied,NA,Very important,45,Bachelor,NA,PRETTY HAPPY
+40,Female,18,NA,Very dissatisfied,NA,Very important,40,Bachelor,NA,VERY HAPPY
+35,Female,14,$60000-74999,A little dissatisfied,NA,Very important,NA,Junior college,NA,PRETTY HAPPY
+41,Male,16,$50000-59999,Mod satisfied,NA,Somewhat important,NA,Bachelor,NA,VERY HAPPY
+30,Male,16,$30000-34999,Very satisfied,Exciting,Very important,37,Bachelor,Disagree,VERY HAPPY
+47,Male,20,$75000+,Very satisfied,Exciting,One of most important,70,Graduate,Disagree,PRETTY HAPPY
+49,Female,14,$75000+,Very satisfied,Exciting,Very important,80,High school,Agree,VERY HAPPY
+36,Female,17,$75000+,Very satisfied,Exciting,Very important,NA,Bachelor,Disagree,VERY HAPPY
+43,Female,16,$75000+,Mod satisfied,NA,One of most important,12,Bachelor,NA,PRETTY HAPPY
+35,Female,15,$75000+,Very satisfied,Exciting,Somewhat important,35,Junior college,Agree,PRETTY HAPPY
+70,Male,20,$75000+,NA,NA,Somewhat important,NA,Graduate,NA,PRETTY HAPPY
+37,Female,13,$75000+,Very satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+58,Male,14,$75000+,Very satisfied,Exciting,Very important,60,High school,Disagree,VERY HAPPY
+23,Female,16,$75000+,Very satisfied,Routine,Very important,50,Bachelor,Disagree,VERY HAPPY
+30,Female,16,$75000+,Mod satisfied,Exciting,Not too important,40,Bachelor,Agree,VERY HAPPY
+18,Female,11,$75000+,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+32,Male,11,$12500-14999,A little dissatisfied,Routine,One of most important,32,Less than HS,Agree,PRETTY HAPPY
+41,Female,14,$25000-29999,Very satisfied,Routine,Somewhat important,20,High school,Agree,PRETTY HAPPY
+67,Female,11,REFUSED,NA,Routine,Not at all important,NA,High school,NA,PRETTY HAPPY
+61,Female,12,$40000-49999,Mod satisfied,Routine,Very important,30,High school,NA,PRETTY HAPPY
+75,Female,12,$12500-14999,NA,Routine,Somewhat important,NA,High school,NA,NOT TOO HAPPY
+41,Male,12,$22500-24999,Very satisfied,NA,One of most important,44,High school,NA,VERY HAPPY
+27,Female,16,$50000-59999,Mod satisfied,Exciting,One of most important,32,Bachelor,Disagree,PRETTY HAPPY
+63,Male,19,$40000-49999,NA,NA,Very important,NA,Graduate,NA,VERY HAPPY
+38,Female,13,$40000-49999,A little dissatisfied,NA,Very important,21,High school,NA,PRETTY HAPPY
+56,Male,10,$25000-29999,Mod satisfied,Routine,Somewhat important,47,High school,NA,PRETTY HAPPY
+25,Female,16,$35000-39999,Mod satisfied,Exciting,Very important,55,Bachelor,Agree,VERY HAPPY
+28,Female,13,$60000-74999,Mod satisfied,NA,Very important,55,High school,NA,VERY HAPPY
+82,Female,8,$12500-14999,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+31,Male,12,$10000-12499,Mod satisfied,Routine,Somewhat important,60,High school,Agree,NOT TOO HAPPY
+31,Male,13,$40000-49999,Mod satisfied,Routine,One of most important,66,High school,Agree,PRETTY HAPPY
+26,Male,13,$12500-14999,Mod satisfied,Routine,Very important,40,High school,Disagree,NOT TOO HAPPY
+31,Male,14,$22500-24999,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+42,Male,14,$50000-59999,Very satisfied,NA,Very important,25,High school,NA,PRETTY HAPPY
+23,Female,16,$35000-39999,Mod satisfied,Exciting,One of most important,15,High school,Disagree,PRETTY HAPPY
+23,Male,15,$10000-12499,Very satisfied,NA,One of most important,15,High school,NA,VERY HAPPY
+24,Female,14,$30000-34999,Very satisfied,NA,Very important,45,High school,NA,PRETTY HAPPY
+38,Male,16,$30000-34999,Very dissatisfied,Exciting,Very important,40,Bachelor,Agree,PRETTY HAPPY
+45,Male,13,$40000-49999,Very satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+30,Male,11,$40000-49999,A little dissatisfied,Routine,Very important,35,High school,Agree,PRETTY HAPPY
+38,Female,15,$30000-34999,Mod satisfied,Routine,Very important,40,Junior college,Agree,PRETTY HAPPY
+74,Male,14,REFUSED,NA,Exciting,Very important,NA,High school,Disagree,VERY HAPPY
+26,Female,9,$12500-14999,Very satisfied,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+52,Male,12,$40000-49999,Mod satisfied,Routine,One of most important,50,High school,Agree,PRETTY HAPPY
+44,Female,12,$35000-39999,Mod satisfied,NA,Very important,32,High school,NA,VERY HAPPY
+37,Female,11,$7000-7999,A little dissatisfied,Exciting,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+25,Male,14,$50000-59999,Mod satisfied,NA,Somewhat important,40,High school,NA,VERY HAPPY
+26,Female,12,NA,Very satisfied,NA,Not too important,NA,High school,NA,PRETTY HAPPY
+39,Female,16,$25000-29999,Mod satisfied,Routine,Very important,40,Bachelor,Disagree,PRETTY HAPPY
+33,Female,14,$30000-34999,Mod satisfied,NA,Very important,54,High school,NA,PRETTY HAPPY
+56,Male,19,$75000+,Mod satisfied,Exciting,Very important,50,Graduate,Agree,PRETTY HAPPY
+46,Female,18,$75000+,Mod satisfied,Exciting,Somewhat important,50,Graduate,Agree,PRETTY HAPPY
+45,Female,16,$75000+,Very satisfied,Exciting,Very important,50,Graduate,Agree,VERY HAPPY
+84,Female,13,NA,Mod satisfied,Routine,Very important,NA,High school,NA,PRETTY HAPPY
+47,Male,15,$40000-49999,Very dissatisfied,Routine,Very important,44,High school,Agree,PRETTY HAPPY
+25,Female,16,$75000+,Very satisfied,Routine,Very important,40,Bachelor,Agree,VERY HAPPY
+23,Female,14,$12500-14999,Mod satisfied,NA,One of most important,40,Graduate,NA,PRETTY HAPPY
+69,Female,12,$20000-22499,Mod satisfied,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+45,Male,12,$60000-74999,Mod satisfied,Routine,Very important,50,High school,Agree,PRETTY HAPPY
+72,Female,11,$17500-19999,NA,Exciting,Somewhat important,NA,Less than HS,Agree,NOT TOO HAPPY
+23,Female,16,$30000-34999,Very satisfied,NA,Very important,40,Bachelor,NA,VERY HAPPY
+57,Female,14,$25000-29999,Very satisfied,Exciting,One of most important,50,High school,Disagree,VERY HAPPY
+45,Female,16,$50000-59999,Very satisfied,NA,Very important,32,Bachelor,NA,VERY HAPPY
+38,Female,12,$10000-12499,Mod satisfied,Exciting,Very important,55,High school,Agree,PRETTY HAPPY
+57,Female,12,$35000-39999,Very satisfied,Exciting,Very important,8,High school,Disagree,PRETTY HAPPY
+30,Male,14,$5000-5999,Mod satisfied,NA,Somewhat important,25,High school,NA,VERY HAPPY
+25,Female,12,$20000-22499,Mod satisfied,Exciting,Very important,50,High school,Agree,PRETTY HAPPY
+26,Male,18,$10000-12499,NA,Exciting,One of most important,NA,Bachelor,Agree,PRETTY HAPPY
+42,Female,17,$10000-12499,Mod satisfied,NA,Somewhat important,NA,Bachelor,NA,PRETTY HAPPY
+35,Male,14,$25000-29999,Very satisfied,NA,Very important,50,High school,NA,VERY HAPPY
+30,Female,12,$40000-49999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+37,Female,14,$75000+,Mod satisfied,Routine,Somewhat important,40,High school,Disagree,PRETTY HAPPY
+54,Male,16,$6000-6999,Very satisfied,NA,Very important,NA,Graduate,NA,PRETTY HAPPY
+40,Female,12,$60000-74999,A little dissatisfied,Routine,Somewhat important,45,High school,Agree,VERY HAPPY
+38,Female,13,$75000+,Very satisfied,NA,Somewhat important,55,High school,NA,PRETTY HAPPY
+68,Male,12,$40000-49999,Very satisfied,Routine,Very important,40,High school,Agree,VERY HAPPY
+72,Female,12,$22500-24999,Very satisfied,Routine,Very important,35,High school,Agree,PRETTY HAPPY
+35,Male,16,$50000-59999,A little dissatisfied,NA,Very important,55,Bachelor,NA,PRETTY HAPPY
+25,Male,12,$22500-24999,Very satisfied,Exciting,One of most important,40,High school,Agree,PRETTY HAPPY
+25,Female,11,NA,Mod satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+20,Male,15,$35000-39999,Very dissatisfied,Routine,Very important,20,High school,Disagree,PRETTY HAPPY
+55,Female,12,$17500-19999,A little dissatisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+29,Female,12,$30000-34999,A little dissatisfied,Exciting,Somewhat important,42,High school,Agree,PRETTY HAPPY
+44,Male,9,$40000-49999,Mod satisfied,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+71,Female,9,$17500-19999,NA,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+21,Female,11,$17500-19999,A little dissatisfied,Dull,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+34,Female,16,$60000-74999,Mod satisfied,NA,Very important,24,Bachelor,NA,PRETTY HAPPY
+59,Female,12,$10000-12499,NA,Routine,Not at all important,NA,High school,Agree,PRETTY HAPPY
+60,Male,11,$22500-24999,NA,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+20,Female,12,$7000-7999,Mod satisfied,NA,One of most important,34,High school,NA,PRETTY HAPPY
+43,Male,12,$30000-34999,Mod satisfied,Routine,One of most important,38,High school,NA,PRETTY HAPPY
+30,Female,10,NA,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+35,Male,13,$17500-19999,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+45,Female,10,$12500-14999,Very dissatisfied,Routine,Somewhat important,NA,High school,Agree,NOT TOO HAPPY
+36,Female,14,$40000-49999,A little dissatisfied,NA,Somewhat important,43,High school,NA,PRETTY HAPPY
+29,Male,16,$35000-39999,A little dissatisfied,NA,Very important,55,Bachelor,NA,PRETTY HAPPY
+23,Female,16,$12500-14999,Very satisfied,Exciting,Very important,30,Junior college,NA,PRETTY HAPPY
+21,Female,12,$22500-24999,Very dissatisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+28,Female,16,$60000-74999,Mod satisfied,NA,Very important,8,Junior college,NA,VERY HAPPY
+51,Female,8,$40000-49999,A little dissatisfied,NA,Not too important,NA,Less than HS,NA,PRETTY HAPPY
+70,Female,12,$20000-22499,NA,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+39,Female,12,NA,Mod satisfied,Routine,Somewhat important,10,Less than HS,Disagree,VERY HAPPY
+83,Female,12,REFUSED,NA,Dull,NA,NA,High school,Agree,PRETTY HAPPY
+31,Female,12,NA,Mod satisfied,NA,Somewhat important,23,High school,NA,VERY HAPPY
+24,Female,11,$3000-3999,Mod satisfied,NA,Very important,38,Less than HS,NA,PRETTY HAPPY
+29,Female,11,NA,A little dissatisfied,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+51,Female,14,$40000-49999,Very satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+53,Female,15,$50000-59999,Very satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+77,Female,16,$30000-34999,NA,Exciting,Not too important,NA,Bachelor,NA,PRETTY HAPPY
+37,Female,12,$25000-29999,Very satisfied,Exciting,Very important,50,High school,Disagree,VERY HAPPY
+77,Female,12,$17500-19999,NA,NA,Not too important,NA,High school,NA,PRETTY HAPPY
+46,Female,12,$60000-74999,Very satisfied,Exciting,Very important,48,High school,Agree,PRETTY HAPPY
+27,Male,9,$30000-34999,Mod satisfied,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+39,Male,12,$35000-39999,Very satisfied,Exciting,One of most important,40,High school,Agree,PRETTY HAPPY
+60,Male,12,$12500-14999,A little dissatisfied,Exciting,Very important,56,High school,Disagree,PRETTY HAPPY
+28,Male,12,$40000-49999,Very satisfied,Exciting,Very important,56,High school,Disagree,VERY HAPPY
+69,Male,8,$22500-24999,NA,Exciting,Very important,NA,Less than HS,Disagree,VERY HAPPY
+20,Female,14,$10000-12499,Very satisfied,NA,Somewhat important,20,High school,NA,VERY HAPPY
+71,Female,10,$30000-34999,NA,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+58,Male,12,$35000-39999,Very satisfied,Exciting,One of most important,45,High school,Agree,PRETTY HAPPY
+51,Male,12,$50000-59999,Mod satisfied,NA,Very important,52,High school,NA,PRETTY HAPPY
+50,Female,16,$75000+,Very satisfied,NA,One of most important,40,Bachelor,NA,NOT TOO HAPPY
+32,Male,12,$20000-22499,Mod satisfied,Routine,One of most important,NA,High school,Disagree,PRETTY HAPPY
+26,Female,12,$20000-22499,Mod satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+48,Female,12,$20000-22499,Very satisfied,NA,Very important,30,High school,NA,PRETTY HAPPY
+58,Male,8,$1000-2999,Mod satisfied,NA,Very important,41,Less than HS,NA,PRETTY HAPPY
+85,Female,9,$10000-12499,NA,Routine,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+34,Female,12,$25000-29999,Very satisfied,Routine,One of most important,40,High school,Agree,PRETTY HAPPY
+33,Male,12,$60000-74999,A little dissatisfied,Routine,Somewhat important,46,High school,Agree,PRETTY HAPPY
+44,Male,12,$35000-39999,NA,Exciting,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+42,Male,12,$50000-59999,Mod satisfied,Exciting,Not at all important,40,High school,Agree,PRETTY HAPPY
+45,Male,15,$25000-29999,Very satisfied,Exciting,Very important,65,High school,Disagree,VERY HAPPY
+32,Female,12,$50000-59999,Mod satisfied,Routine,Very important,48,High school,Disagree,PRETTY HAPPY
+33,Female,12,$60000-74999,Very satisfied,NA,Very important,24,High school,NA,PRETTY HAPPY
+78,Male,8,$25000-29999,NA,Routine,Somewhat important,NA,Less than HS,Agree,NOT TOO HAPPY
+29,Male,12,$75000+,Mod satisfied,Exciting,One of most important,80,High school,Agree,PRETTY HAPPY
+28,Female,13,NA,Very satisfied,Routine,Somewhat important,NA,High school,Disagree,PRETTY HAPPY
+23,Male,12,$12500-14999,Very satisfied,Exciting,Very important,51,High school,Agree,NOT TOO HAPPY
+25,Female,13,$40000-49999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+42,Male,12,$35000-39999,Very satisfied,Exciting,Very important,42,High school,Agree,VERY HAPPY
+24,Male,9,LT $1000,A little dissatisfied,Routine,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+36,Female,11,$12500-14999,Very satisfied,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+28,Male,12,$15000-17499,Very satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+21,Female,12,$4000-4999,NA,Dull,One of most important,NA,High school,Agree,PRETTY HAPPY
+61,Male,4,$4000-4999,A little dissatisfied,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+23,Male,12,$5000-5999,A little dissatisfied,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+40,Female,17,$50000-59999,Mod satisfied,Routine,Very important,14,Bachelor,Agree,VERY HAPPY
+31,Female,12,$3000-3999,Mod satisfied,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+35,Male,12,$17500-19999,Mod satisfied,NA,One of most important,40,High school,NA,NOT TOO HAPPY
+69,Female,11,$15000-17499,NA,NA,Not at all important,NA,High school,NA,PRETTY HAPPY
+68,Female,9,$3000-3999,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+79,Female,12,$8000-9999,Very satisfied,Exciting,NA,NA,High school,Agree,VERY HAPPY
+73,Male,12,$8000-9999,NA,Exciting,Very important,NA,High school,Agree,NOT TOO HAPPY
+45,Female,14,$50000-59999,Very satisfied,NA,One of most important,50,Junior college,NA,PRETTY HAPPY
+54,Female,16,NA,Mod satisfied,NA,NA,70,Bachelor,NA,PRETTY HAPPY
+58,Male,16,$75000+,Very satisfied,Routine,Very important,50,Bachelor,Disagree,VERY HAPPY
+58,Male,16,$75000+,Very satisfied,Exciting,Very important,70,Graduate,Disagree,VERY HAPPY
+67,Female,16,$75000+,Very satisfied,Exciting,Very important,46,Bachelor,Disagree,PRETTY HAPPY
+64,Female,15,$20000-22499,NA,Exciting,One of most important,NA,High school,Disagree,PRETTY HAPPY
+74,Female,12,$22500-24999,NA,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+44,Female,12,$17500-19999,Mod satisfied,NA,Somewhat important,40,High school,NA,VERY HAPPY
+30,Male,14,$35000-39999,Very satisfied,NA,One of most important,45,High school,NA,PRETTY HAPPY
+34,Female,16,$25000-29999,Very dissatisfied,Routine,Very important,35,Bachelor,Agree,PRETTY HAPPY
+79,Female,12,$22500-24999,NA,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+45,Male,13,$35000-39999,A little dissatisfied,Dull,Very important,48,High school,Agree,PRETTY HAPPY
+78,Female,12,$15000-17499,NA,NA,One of most important,NA,High school,NA,VERY HAPPY
+47,Male,12,$40000-49999,A little dissatisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+50,Female,12,$30000-34999,Very satisfied,Routine,Somewhat important,25,High school,Disagree,PRETTY HAPPY
+38,Female,11,$30000-34999,A little dissatisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+31,Female,12,$60000-74999,Very satisfied,Exciting,Somewhat important,40,High school,Disagree,PRETTY HAPPY
+55,Female,12,$50000-59999,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+25,Male,16,$40000-49999,Mod satisfied,NA,Very important,40,Bachelor,NA,VERY HAPPY
+40,Male,12,$25000-29999,Very satisfied,Exciting,Very important,40,High school,Disagree,PRETTY HAPPY
+49,Female,12,$25000-29999,Mod satisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+64,Male,8,$3000-3999,NA,Exciting,Not at all important,NA,Less than HS,Disagree,VERY HAPPY
+42,Male,13,$60000-74999,A little dissatisfied,NA,Not too important,50,High school,NA,VERY HAPPY
+42,Female,10,$15000-17499,Mod satisfied,Dull,Very important,40,Less than HS,Agree,NOT TOO HAPPY
+29,Male,9,$22500-24999,A little dissatisfied,Routine,Very important,40,Less than HS,Agree,PRETTY HAPPY
+19,Male,11,$75000+,Very satisfied,Exciting,Somewhat important,25,Less than HS,Agree,VERY HAPPY
+26,Female,13,$40000-49999,Mod satisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+60,Male,14,$10000-12499,Mod satisfied,Routine,One of most important,40,Junior college,Agree,NOT TOO HAPPY
+25,Female,14,$17500-19999,Very satisfied,NA,Very important,40,High school,NA,VERY HAPPY
+44,Male,17,$35000-39999,Mod satisfied,Routine,One of most important,35,Bachelor,Agree,PRETTY HAPPY
+31,Female,12,$20000-22499,Very satisfied,Exciting,Somewhat important,15,High school,Disagree,VERY HAPPY
+53,Female,12,$12500-14999,NA,NA,Somewhat important,NA,High school,NA,VERY HAPPY
+38,Male,12,$40000-49999,Very satisfied,NA,Somewhat important,50,High school,NA,PRETTY HAPPY
+60,Female,7,REFUSED,NA,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+48,Female,12,$35000-39999,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+34,Female,18,$60000-74999,Very satisfied,Exciting,One of most important,45,Graduate,Disagree,PRETTY HAPPY
+69,Female,13,$10000-12499,NA,Exciting,Somewhat important,NA,High school,Disagree,VERY HAPPY
+48,Female,8,REFUSED,NA,Exciting,One of most important,NA,Less than HS,Disagree,PRETTY HAPPY
+79,Female,12,REFUSED,Very satisfied,NA,Very important,2,High school,NA,VERY HAPPY
+49,Female,16,$35000-39999,Very satisfied,Exciting,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+33,Male,19,$25000-29999,Very satisfied,NA,Very important,40,Graduate,NA,VERY HAPPY
+55,Female,16,$60000-74999,Mod satisfied,Exciting,Very important,80,Bachelor,Agree,PRETTY HAPPY
+21,Male,12,$60000-74999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+36,Male,17,$50000-59999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,VERY HAPPY
+65,Male,14,$17500-19999,NA,Routine,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+59,Male,16,$75000+,Very satisfied,NA,Very important,10,Bachelor,NA,VERY HAPPY
+50,Female,16,$60000-74999,Very satisfied,Exciting,One of most important,30,Bachelor,Agree,PRETTY HAPPY
+78,Female,12,$3000-3999,NA,Routine,Not at all important,NA,High school,Agree,PRETTY HAPPY
+74,Male,10,$12500-14999,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+31,Male,12,$50000-59999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+89,Female,14,$15000-17499,NA,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+75,Female,14,REFUSED,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+47,Male,12,$75000+,Very satisfied,Exciting,Very important,50,High school,Agree,VERY HAPPY
+38,Male,8,$12500-14999,A little dissatisfied,Routine,One of most important,36,Less than HS,Agree,PRETTY HAPPY
+37,Male,12,$12500-14999,Mod satisfied,Routine,One of most important,NA,High school,Agree,NOT TOO HAPPY
+49,Male,7,$17500-19999,Very satisfied,NA,One of most important,30,Less than HS,NA,VERY HAPPY
+39,Female,12,$40000-49999,Very satisfied,Routine,Very important,65,High school,Agree,PRETTY HAPPY
+64,Female,12,NA,Very satisfied,NA,Not at all important,NA,High school,NA,VERY HAPPY
+53,Female,NA,REFUSED,NA,Dull,NA,NA,NA,NA,VERY HAPPY
+28,Female,16,$22500-24999,Very satisfied,NA,Not too important,4,Bachelor,NA,VERY HAPPY
+24,Male,11,$25000-29999,Mod satisfied,NA,Very important,38,Less than HS,NA,VERY HAPPY
+80,Female,10,$15000-17499,Very satisfied,Exciting,Not at all important,NA,Less than HS,Agree,VERY HAPPY
+70,Male,18,$35000-39999,NA,Exciting,Very important,NA,Graduate,Agree,VERY HAPPY
+37,Male,12,$35000-39999,Mod satisfied,Exciting,Very important,50,High school,Disagree,PRETTY HAPPY
+67,Female,16,NA,NA,NA,Somewhat important,NA,Bachelor,NA,PRETTY HAPPY
+40,Female,12,$20000-22499,Very satisfied,Exciting,Very important,40,High school,Agree,VERY HAPPY
+26,Male,14,$35000-39999,Mod satisfied,NA,Somewhat important,50,Junior college,NA,PRETTY HAPPY
+37,Female,18,$75000+,NA,NA,Very important,NA,Graduate,NA,VERY HAPPY
+33,Female,13,$12500-14999,Mod satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+50,Female,12,$30000-34999,A little dissatisfied,Exciting,Very important,40,High school,Agree,PRETTY HAPPY
+46,Male,14,$50000-59999,Very satisfied,Exciting,Somewhat important,40,High school,Disagree,VERY HAPPY
+60,Male,13,$50000-59999,Very satisfied,Exciting,Very important,40,Junior college,Agree,PRETTY HAPPY
+29,Female,16,$25000-29999,Very satisfied,Exciting,Not too important,52,Bachelor,Disagree,VERY HAPPY
+22,Female,12,$22500-24999,Very satisfied,NA,Very important,24,High school,NA,VERY HAPPY
+72,Male,7,$17500-19999,NA,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+28,Male,17,$75000+,Mod satisfied,Exciting,Somewhat important,75,High school,Disagree,PRETTY HAPPY
+29,Male,16,$30000-34999,Very satisfied,NA,Very important,40,Bachelor,NA,VERY HAPPY
+46,Female,14,$60000-74999,Very satisfied,Exciting,One of most important,40,Junior college,Agree,PRETTY HAPPY
+25,Male,13,$20000-22499,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+47,Female,16,$60000-74999,Very satisfied,Routine,One of most important,5,Bachelor,Agree,PRETTY HAPPY
+78,Male,11,$17500-19999,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+73,Male,16,$25000-29999,NA,NA,Very important,NA,Bachelor,NA,PRETTY HAPPY
+36,Male,8,$17500-19999,Very satisfied,NA,Very important,48,Less than HS,NA,PRETTY HAPPY
+77,Male,11,$25000-29999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+37,Male,10,$30000-34999,Mod satisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+25,Female,13,$35000-39999,Very satisfied,Routine,Very important,43,High school,Agree,PRETTY HAPPY
+32,Female,9,$20000-22499,Very satisfied,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+40,Male,18,$75000+,Very satisfied,Routine,Very important,80,Graduate,Agree,PRETTY HAPPY
+33,Female,13,$17500-19999,A little dissatisfied,Routine,Very important,8,High school,Agree,NOT TOO HAPPY
+39,Female,12,$50000-59999,Mod satisfied,Routine,Very important,72,High school,Disagree,PRETTY HAPPY
+33,Female,14,$30000-34999,Very satisfied,Routine,Very important,40,High school,Agree,VERY HAPPY
+26,Male,12,$30000-34999,Mod satisfied,Dull,Very important,58,High school,Agree,PRETTY HAPPY
+28,Female,12,$20000-22499,Mod satisfied,Routine,Very important,40,High school,Disagree,PRETTY HAPPY
+29,Female,15,$17500-19999,Very satisfied,Exciting,Very important,55,High school,Agree,VERY HAPPY
+33,Male,16,$25000-29999,A little dissatisfied,Routine,Very important,40,Bachelor,Agree,NOT TOO HAPPY
+35,Male,17,$25000-29999,Very satisfied,Exciting,Very important,50,Graduate,Agree,PRETTY HAPPY
+74,Female,13,$30000-34999,Very satisfied,NA,Not too important,NA,High school,NA,VERY HAPPY
+75,Female,11,$5000-5999,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+49,Female,15,REFUSED,Very satisfied,Exciting,Very important,45,High school,Disagree,VERY HAPPY
+69,Male,16,$50000-59999,NA,NA,Somewhat important,NA,Bachelor,NA,PRETTY HAPPY
+35,Female,13,$10000-12499,A little dissatisfied,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+28,Male,18,$22500-24999,Mod satisfied,NA,Somewhat important,10,High school,NA,PRETTY HAPPY
+71,Female,6,$1000-2999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+64,Female,12,NA,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+62,Female,6,$12500-14999,NA,Routine,NA,NA,Less than HS,Agree,PRETTY HAPPY
+35,Male,9,$25000-29999,A little dissatisfied,NA,One of most important,50,High school,NA,PRETTY HAPPY
+46,Male,14,$75000+,A little dissatisfied,Routine,Very important,58,Junior college,Disagree,PRETTY HAPPY
+58,Male,18,$15000-17499,Very satisfied,Routine,Very important,NA,Bachelor,Disagree,NOT TOO HAPPY
+42,Male,11,$7000-7999,Mod satisfied,NA,Very important,40,Less than HS,NA,PRETTY HAPPY
+43,Female,NA,$3000-3999,NA,Exciting,NA,NA,NA,Disagree,NOT TOO HAPPY
+59,Female,9,$10000-12499,NA,Routine,Somewhat important,NA,Less than HS,Agree,PRETTY HAPPY
+38,Female,10,$7000-7999,NA,Routine,One of most important,NA,Less than HS,Agree,NOT TOO HAPPY
+48,Female,11,$60000-74999,Mod satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+34,Female,12,$25000-29999,Mod satisfied,NA,Not too important,NA,High school,NA,VERY HAPPY
+44,Female,13,$75000+,Very satisfied,NA,Very important,8,High school,NA,PRETTY HAPPY
+23,Male,14,$22500-24999,Very satisfied,Routine,Very important,50,High school,Agree,PRETTY HAPPY
+37,Male,13,$50000-59999,Very satisfied,NA,Very important,80,High school,NA,VERY HAPPY
+34,Male,14,$30000-34999,Very satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+26,Male,14,$50000-59999,A little dissatisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+58,Male,13,$15000-17499,Mod satisfied,NA,Somewhat important,8,High school,NA,PRETTY HAPPY
+87,Male,12,$40000-49999,NA,Routine,One of most important,NA,High school,Disagree,VERY HAPPY
+69,Male,18,$35000-39999,NA,Exciting,Somewhat important,NA,Graduate,Disagree,VERY HAPPY
+65,Male,12,REFUSED,NA,NA,One of most important,NA,High school,NA,VERY HAPPY
+31,Male,20,$75000+,Very satisfied,Exciting,Very important,89,Graduate,Disagree,VERY HAPPY
+66,Female,16,$40000-49999,NA,Exciting,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+69,Female,17,$40000-49999,NA,Routine,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+NA,Female,16,REFUSED,NA,Routine,Not at all important,NA,Bachelor,Agree,PRETTY HAPPY
+53,Female,18,$75000+,Very satisfied,Exciting,Very important,40,Graduate,Agree,VERY HAPPY
+72,Male,13,REFUSED,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+26,Male,12,$20000-22499,Mod satisfied,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+25,Male,12,$22500-24999,Mod satisfied,Exciting,Very important,43,High school,Agree,PRETTY HAPPY
+37,Female,13,$40000-49999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+58,Male,14,$17500-19999,Very satisfied,Routine,One of most important,65,High school,Disagree,PRETTY HAPPY
+25,Female,16,$60000-74999,Very satisfied,NA,One of most important,50,Bachelor,NA,PRETTY HAPPY
+35,Female,8,$4000-4999,A little dissatisfied,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+60,Female,6,$4000-4999,NA,NA,Very important,NA,Less than HS,NA,NA
+33,Male,10,$35000-39999,Very satisfied,Exciting,One of most important,55,Less than HS,Disagree,PRETTY HAPPY
+24,Male,15,$22500-24999,NA,Exciting,Somewhat important,NA,High school,Agree,PRETTY HAPPY
+82,Male,12,$10000-12499,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+29,Male,16,$5000-5999,A little dissatisfied,Routine,Very important,NA,Junior college,Agree,PRETTY HAPPY
+41,Female,15,NA,Very satisfied,Routine,Somewhat important,48,High school,Agree,VERY HAPPY
+73,Female,8,NA,Very satisfied,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+30,Male,12,$30000-34999,Mod satisfied,Routine,Somewhat important,40,High school,Agree,PRETTY HAPPY
+68,Female,13,REFUSED,NA,NA,Very important,NA,High school,NA,VERY HAPPY
+68,Female,10,NA,NA,Routine,Not too important,NA,Less than HS,Disagree,PRETTY HAPPY
+39,Female,12,$10000-12499,Mod satisfied,NA,Somewhat important,20,High school,NA,VERY HAPPY
+56,Female,10,$6000-6999,A little dissatisfied,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+37,Female,12,$40000-49999,A little dissatisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+68,Male,12,$20000-22499,NA,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+66,Male,13,$40000-49999,NA,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+78,Female,12,REFUSED,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+59,Male,12,$25000-29999,Mod satisfied,Routine,One of most important,70,High school,Agree,PRETTY HAPPY
+22,Female,12,LT $1000,A little dissatisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+33,Male,14,$20000-22499,Mod satisfied,Routine,Very important,60,High school,Disagree,PRETTY HAPPY
+51,Male,9,$12500-14999,NA,Dull,Very important,NA,High school,Agree,NOT TOO HAPPY
+52,Male,12,$25000-29999,Very satisfied,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+21,Female,15,$30000-34999,Very satisfied,Exciting,Somewhat important,25,High school,Agree,VERY HAPPY
+46,Female,20,$50000-59999,Mod satisfied,Routine,Very important,60,Graduate,Disagree,PRETTY HAPPY
+25,Male,17,$40000-49999,Very satisfied,Exciting,Very important,45,High school,Disagree,VERY HAPPY
+36,Male,16,$75000+,Mod satisfied,NA,Very important,70,Bachelor,NA,PRETTY HAPPY
+86,Female,11,$30000-34999,Mod satisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+47,Male,12,$20000-22499,Mod satisfied,Routine,One of most important,55,High school,Agree,PRETTY HAPPY
+28,Male,10,$10000-12499,Mod satisfied,Exciting,Very important,40,Less than HS,Agree,PRETTY HAPPY
+28,Female,12,$6000-6999,Very satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+40,Female,12,$17500-19999,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+52,Female,12,NA,NA,NA,NA,NA,NA,Agree,NA
+28,Female,10,$5000-5999,Mod satisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+82,Female,10,$7000-7999,NA,Routine,Not too important,NA,Less than HS,Agree,VERY HAPPY
+72,Female,9,NA,NA,NA,NA,NA,Less than HS,NA,PRETTY HAPPY
+32,Female,12,NA,Mod satisfied,NA,One of most important,NA,NA,NA,VERY HAPPY
+64,Female,16,$30000-34999,NA,Exciting,Very important,NA,Bachelor,Disagree,VERY HAPPY
+74,Male,5,$4000-4999,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+35,Male,15,$4000-4999,Very satisfied,Routine,Very important,50,High school,Disagree,PRETTY HAPPY
+63,Female,16,$35000-39999,Very dissatisfied,NA,Very important,40,Bachelor,NA,NOT TOO HAPPY
+49,Female,14,$15000-17499,Mod satisfied,NA,Somewhat important,40,High school,NA,PRETTY HAPPY
+35,Male,14,$20000-22499,Mod satisfied,Routine,Somewhat important,50,Junior college,Agree,PRETTY HAPPY
+33,Female,16,$7000-7999,NA,Exciting,One of most important,NA,High school,Agree,VERY HAPPY
+32,Male,16,$8000-9999,Very satisfied,Routine,Very important,42,High school,Agree,PRETTY HAPPY
+42,Female,19,$25000-29999,Mod satisfied,NA,Very important,34,Graduate,NA,PRETTY HAPPY
+40,Male,15,REFUSED,Mod satisfied,Exciting,Very important,60,High school,Agree,VERY HAPPY
+24,Female,16,$8000-9999,NA,Exciting,Very important,NA,Bachelor,Agree,PRETTY HAPPY
+38,Male,13,$12500-14999,Mod satisfied,NA,Somewhat important,48,High school,NA,PRETTY HAPPY
+36,Male,8,$6000-6999,Very satisfied,NA,One of most important,NA,Less than HS,NA,VERY HAPPY
+23,Female,13,$15000-17499,Mod satisfied,NA,Very important,30,High school,NA,PRETTY HAPPY
+30,Male,12,$12500-14999,Very dissatisfied,Routine,Very important,40,High school,Disagree,PRETTY HAPPY
+29,Female,12,$17500-19999,A little dissatisfied,Routine,Very important,50,High school,Disagree,PRETTY HAPPY
+37,Female,13,$17500-19999,Mod satisfied,Dull,Not too important,56,High school,Agree,NOT TOO HAPPY
+40,Male,12,$30000-34999,Very satisfied,Routine,Very important,50,High school,Agree,PRETTY HAPPY
+52,Female,14,$60000-74999,Mod satisfied,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+79,Female,12,$20000-22499,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+29,Female,12,$40000-49999,Mod satisfied,Routine,Very important,40,High school,Agree,VERY HAPPY
+59,Male,12,$30000-34999,A little dissatisfied,Dull,Very important,40,High school,Agree,NOT TOO HAPPY
+28,Male,18,$10000-12499,Very satisfied,Exciting,Very important,40,Graduate,Disagree,PRETTY HAPPY
+35,Female,18,$35000-39999,Mod satisfied,NA,Very important,60,Bachelor,NA,VERY HAPPY
+32,Female,9,$12500-14999,Very satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+23,Male,16,$8000-9999,NA,Exciting,One of most important,20,High school,Disagree,PRETTY HAPPY
+50,Female,18,$75000+,Very satisfied,Exciting,One of most important,35,Graduate,Disagree,VERY HAPPY
+43,Male,16,$35000-39999,Mod satisfied,Exciting,Very important,40,Bachelor,Disagree,PRETTY HAPPY
+39,Female,13,$50000-59999,Mod satisfied,Routine,Very important,65,High school,Agree,PRETTY HAPPY
+50,Female,13,$10000-12499,Mod satisfied,Exciting,Very important,15,High school,Agree,NOT TOO HAPPY
+78,Female,10,$12500-14999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+43,Female,18,$12500-14999,Mod satisfied,Dull,Very important,30,Bachelor,Agree,PRETTY HAPPY
+34,Male,18,$40000-49999,Very satisfied,Exciting,Very important,60,Bachelor,Agree,PRETTY HAPPY
+57,Female,11,$22500-24999,Mod satisfied,Routine,Not too important,40,High school,Agree,VERY HAPPY
+63,Male,12,$12500-14999,NA,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+48,Male,14,REFUSED,Mod satisfied,Exciting,Very important,40,High school,Disagree,PRETTY HAPPY
+48,Female,14,REFUSED,Very dissatisfied,NA,NA,NA,High school,NA,NOT TOO HAPPY
+28,Male,16,$40000-49999,Mod satisfied,NA,Very important,35,Bachelor,NA,PRETTY HAPPY
+42,Female,18,$50000-59999,Mod satisfied,Routine,One of most important,40,Graduate,Agree,NOT TOO HAPPY
+32,Female,12,$40000-49999,Mod satisfied,Routine,Very important,21,High school,Agree,VERY HAPPY
+24,Female,14,$30000-34999,NA,Exciting,Very important,NA,Junior college,Disagree,VERY HAPPY
+57,Male,20,$75000+,Very satisfied,NA,Very important,70,Bachelor,NA,PRETTY HAPPY
+55,Male,12,$20000-22499,Very satisfied,NA,Somewhat important,80,High school,NA,VERY HAPPY
+35,Female,12,$40000-49999,Mod satisfied,Exciting,Not too important,55,High school,Agree,PRETTY HAPPY
+55,Female,16,$10000-12499,Very satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+34,Male,12,$25000-29999,Very satisfied,NA,One of most important,65,High school,NA,VERY HAPPY
+28,Female,13,$25000-29999,Mod satisfied,NA,Somewhat important,25,High school,NA,VERY HAPPY
+21,Male,13,$25000-29999,Very satisfied,Exciting,One of most important,45,Less than HS,Agree,PRETTY HAPPY
+73,Female,8,NA,NA,NA,NA,NA,Less than HS,NA,PRETTY HAPPY
+32,Female,17,$12500-14999,Mod satisfied,NA,One of most important,30,Bachelor,NA,NOT TOO HAPPY
+58,Female,12,$3000-3999,NA,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+28,Male,13,$30000-34999,A little dissatisfied,NA,Not too important,40,High school,NA,PRETTY HAPPY
+24,Female,12,$22500-24999,Mod satisfied,NA,Somewhat important,45,High school,NA,PRETTY HAPPY
+41,Female,14,$12500-14999,NA,Exciting,Very important,NA,Junior college,Agree,NOT TOO HAPPY
+40,Male,12,$30000-34999,Mod satisfied,Routine,Not too important,NA,High school,Disagree,PRETTY HAPPY
+69,Male,9,$15000-17499,NA,Routine,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+42,Female,14,$75000+,Very satisfied,Exciting,Very important,40,High school,Agree,VERY HAPPY
+36,Female,12,$50000-59999,Very satisfied,NA,Somewhat important,32,High school,NA,PRETTY HAPPY
+20,Male,12,NA,Mod satisfied,NA,Very important,16,High school,NA,PRETTY HAPPY
+34,Female,12,$20000-22499,NA,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+66,Male,18,$60000-74999,NA,NA,Very important,NA,Graduate,NA,PRETTY HAPPY
+57,Male,17,$75000+,A little dissatisfied,Routine,One of most important,60,Bachelor,Agree,PRETTY HAPPY
+53,Male,14,$75000+,A little dissatisfied,Exciting,One of most important,70,Junior college,Agree,NOT TOO HAPPY
+66,Female,12,$50000-59999,Very satisfied,NA,Very important,15,Less than HS,NA,NOT TOO HAPPY
+42,Male,16,$50000-59999,Very satisfied,Exciting,Very important,44,Bachelor,Agree,VERY HAPPY
+60,Male,13,$60000-74999,Mod satisfied,Routine,Very important,60,High school,Agree,PRETTY HAPPY
+48,Female,16,$30000-34999,A little dissatisfied,Exciting,One of most important,40,Bachelor,Agree,PRETTY HAPPY
+41,Male,16,$25000-29999,Very satisfied,Exciting,Very important,30,Bachelor,Agree,PRETTY HAPPY
+57,Female,14,$7000-7999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+21,Male,12,$17500-19999,NA,Exciting,One of most important,NA,High school,Agree,VERY HAPPY
+34,Male,14,$30000-34999,Mod satisfied,NA,Somewhat important,50,Junior college,NA,PRETTY HAPPY
+39,Male,11,$8000-9999,NA,NA,Somewhat important,NA,Less than HS,NA,NOT TOO HAPPY
+30,Male,17,$50000-59999,Very satisfied,Routine,Very important,40,Graduate,Disagree,VERY HAPPY
+22,Female,12,LT $1000,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+40,Female,14,$75000+,NA,NA,Somewhat important,NA,High school,NA,VERY HAPPY
+74,Male,2,$5000-5999,NA,Exciting,Very important,NA,Less than HS,Agree,PRETTY HAPPY
+36,Female,13,$40000-49999,Mod satisfied,NA,Somewhat important,30,High school,NA,PRETTY HAPPY
+19,Female,11,$12500-14999,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+63,Female,12,$4000-4999,Very dissatisfied,Exciting,One of most important,NA,High school,Agree,NOT TOO HAPPY
+38,Male,12,$35000-39999,Very satisfied,Exciting,One of most important,NA,High school,Disagree,VERY HAPPY
+29,Female,12,$22500-24999,A little dissatisfied,Routine,One of most important,40,High school,Agree,NOT TOO HAPPY
+43,Male,16,$40000-49999,Mod satisfied,NA,Very important,30,Bachelor,NA,PRETTY HAPPY
+28,Female,15,$15000-17499,Mod satisfied,Exciting,Very important,34,High school,Agree,VERY HAPPY
+74,Male,8,$15000-17499,NA,Routine,Very important,NA,Less than HS,Disagree,VERY HAPPY
+89,Female,9,$4000-4999,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+68,Female,12,$8000-9999,Mod satisfied,Exciting,Somewhat important,NA,High school,Disagree,NOT TOO HAPPY
+60,Female,11,$12500-14999,Very satisfied,NA,Somewhat important,NA,Less than HS,NA,PRETTY HAPPY
+43,Male,8,LT $1000,Very satisfied,Routine,Very important,6,Less than HS,Agree,NOT TOO HAPPY
+73,Male,12,$22500-24999,NA,Routine,Very important,NA,High school,Agree,NOT TOO HAPPY
+71,Male,8,$12500-14999,NA,Exciting,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+36,Male,9,$15000-17499,Mod satisfied,Routine,Very important,44,Less than HS,Agree,PRETTY HAPPY
+46,Female,12,$30000-34999,Mod satisfied,Routine,Very important,40,High school,Disagree,VERY HAPPY
+36,Male,10,$40000-49999,Very satisfied,NA,Very important,47,High school,NA,VERY HAPPY
+46,Female,13,$15000-17499,A little dissatisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+27,Female,12,$17500-19999,Very satisfied,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+50,Male,13,$50000-59999,Very satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+67,Female,7,LT $1000,NA,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+88,Female,7,$6000-6999,NA,Routine,Not too important,NA,Less than HS,Disagree,PRETTY HAPPY
+76,Female,12,$12500-14999,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+24,Male,16,$15000-17499,Mod satisfied,NA,Very important,60,Junior college,NA,PRETTY HAPPY
+26,Male,17,$10000-12499,Mod satisfied,Routine,Very important,30,Bachelor,Disagree,PRETTY HAPPY
+24,Female,16,$20000-22499,Very satisfied,Exciting,Very important,45,Bachelor,Agree,PRETTY HAPPY
+38,Female,14,$50000-59999,Mod satisfied,Routine,Very important,NA,High school,NA,PRETTY HAPPY
+42,Female,15,$40000-49999,Very satisfied,NA,Very important,25,Junior college,NA,VERY HAPPY
+65,Female,12,NA,NA,NA,Somewhat important,NA,High school,NA,PRETTY HAPPY
+32,Female,18,$50000-59999,Very satisfied,Routine,Not too important,40,Graduate,Disagree,PRETTY HAPPY
+28,Female,12,$12500-14999,NA,Routine,Very important,NA,High school,Disagree,VERY HAPPY
+29,Female,12,$17500-19999,Mod satisfied,Routine,Very important,54,High school,Agree,VERY HAPPY
+37,Female,15,$15000-17499,A little dissatisfied,NA,Very important,45,High school,NA,PRETTY HAPPY
+44,Female,16,$5000-5999,NA,Dull,One of most important,NA,Bachelor,Agree,PRETTY HAPPY
+37,Female,17,$25000-29999,Mod satisfied,Routine,Somewhat important,NA,Bachelor,Disagree,VERY HAPPY
+26,Female,19,$12500-14999,A little dissatisfied,Routine,Very important,30,Bachelor,Agree,VERY HAPPY
+46,Male,12,$22500-24999,Mod satisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+18,Male,11,$40000-49999,Mod satisfied,Exciting,Somewhat important,7,Less than HS,Disagree,PRETTY HAPPY
+19,Male,12,$35000-39999,Mod satisfied,Exciting,One of most important,NA,High school,Agree,PRETTY HAPPY
+19,Male,11,$7000-7999,Mod satisfied,NA,One of most important,NA,Less than HS,NA,VERY HAPPY
+27,Female,9,$22500-24999,Very satisfied,Routine,Not too important,NA,High school,Agree,VERY HAPPY
+29,Male,12,$8000-9999,Mod satisfied,Routine,Very important,32,High school,Agree,VERY HAPPY
+73,Female,8,$8000-9999,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+39,Male,16,$30000-34999,Very satisfied,NA,Somewhat important,40,Bachelor,NA,NOT TOO HAPPY
+72,Male,8,$20000-22499,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+49,Female,14,$30000-34999,Very satisfied,Routine,Very important,NA,High school,Agree,VERY HAPPY
+43,Female,12,$35000-39999,Mod satisfied,Routine,Very important,16,High school,Agree,PRETTY HAPPY
+31,Male,15,$35000-39999,Mod satisfied,NA,Very important,50,High school,NA,PRETTY HAPPY
+31,Female,13,$15000-17499,Mod satisfied,Routine,Very important,40,High school,Agree,PRETTY HAPPY
+55,Male,16,$60000-74999,Mod satisfied,Exciting,One of most important,40,Bachelor,Disagree,VERY HAPPY
+28,Male,12,$17500-19999,Mod satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+73,Female,12,REFUSED,NA,Exciting,Not too important,NA,High school,Agree,VERY HAPPY
+22,Male,12,$10000-12499,Mod satisfied,Routine,Somewhat important,30,High school,Agree,PRETTY HAPPY
+30,Female,14,$17500-19999,Very satisfied,NA,One of most important,45,Junior college,NA,VERY HAPPY
+46,Female,12,$5000-5999,NA,NA,Somewhat important,NA,High school,NA,NOT TOO HAPPY
+25,Male,15,$20000-22499,NA,NA,Very important,NA,Junior college,NA,VERY HAPPY
+19,Male,12,$4000-4999,Very dissatisfied,Routine,Very important,25,High school,Disagree,PRETTY HAPPY
+62,Female,18,$75000+,Very satisfied,Exciting,One of most important,60,Graduate,Agree,VERY HAPPY
+47,Male,12,$35000-39999,Mod satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+51,Female,12,$7000-7999,Mod satisfied,Routine,Very important,40,High school,Agree,NOT TOO HAPPY
+68,Female,6,$3000-3999,NA,NA,One of most important,NA,Less than HS,NA,PRETTY HAPPY
+58,Female,12,$3000-3999,A little dissatisfied,Dull,One of most important,NA,High school,Agree,PRETTY HAPPY
+62,Female,9,$4000-4999,Very dissatisfied,Routine,Very important,NA,Less than HS,Agree,VERY HAPPY
+50,Female,10,$5000-5999,Very satisfied,NA,Very important,NA,High school,NA,NOT TOO HAPPY
+35,Female,12,$40000-49999,Very satisfied,Exciting,Very important,40,High school,Agree,VERY HAPPY
+66,Male,8,$15000-17499,NA,Dull,Not at all important,NA,Less than HS,Disagree,PRETTY HAPPY
+54,Female,12,$20000-22499,Mod satisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+40,Female,12,$15000-17499,Mod satisfied,NA,Very important,48,High school,NA,VERY HAPPY
+38,Male,10,$17500-19999,Mod satisfied,Routine,Very important,65,Less than HS,Disagree,PRETTY HAPPY
+68,Female,12,$12500-14999,NA,Exciting,Somewhat important,NA,Less than HS,Disagree,PRETTY HAPPY
+47,Female,14,$35000-39999,Very satisfied,Exciting,One of most important,40,High school,Agree,VERY HAPPY
+36,Female,18,$35000-39999,Very satisfied,Exciting,Very important,40,Graduate,NA,PRETTY HAPPY
+65,Female,8,$12500-14999,NA,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+54,Male,11,$40000-49999,Very satisfied,Dull,One of most important,48,Less than HS,Agree,PRETTY HAPPY
+62,Male,8,$12500-14999,Mod satisfied,Routine,Very important,45,Less than HS,Disagree,PRETTY HAPPY
+62,Male,7,$17500-19999,Very satisfied,Routine,Very important,50,Less than HS,Agree,VERY HAPPY
+20,Male,12,$25000-29999,Very satisfied,NA,Somewhat important,42,High school,NA,PRETTY HAPPY
+63,Female,13,$12500-14999,Mod satisfied,Routine,Very important,13,High school,Agree,PRETTY HAPPY
+64,Male,8,$8000-9999,Mod satisfied,Routine,Very important,15,Less than HS,Agree,VERY HAPPY
+28,Female,12,$5000-5999,A little dissatisfied,Dull,Somewhat important,NA,High school,Disagree,NOT TOO HAPPY
+33,Male,9,$22500-24999,Very satisfied,NA,Very important,40,High school,NA,PRETTY HAPPY
+76,Male,7,NA,NA,Routine,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+38,Female,8,$40000-49999,Very satisfied,Exciting,One of most important,44,Less than HS,Agree,VERY HAPPY
+70,Male,8,$4000-4999,Very satisfied,NA,One of most important,10,Less than HS,NA,VERY HAPPY
+39,Male,12,$30000-34999,Very satisfied,Routine,Very important,45,High school,Disagree,PRETTY HAPPY
+20,Female,12,NA,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+37,Female,12,LT $1000,A little dissatisfied,Dull,Very important,7,High school,Agree,NOT TOO HAPPY
+33,Female,8,NA,NA,Dull,Very important,NA,Less than HS,NA,PRETTY HAPPY
+72,Female,8,NA,Very satisfied,NA,Very important,25,Less than HS,NA,VERY HAPPY
+66,Female,7,$10000-12499,Very satisfied,NA,Very important,16,Less than HS,NA,VERY HAPPY
+55,Female,13,$30000-34999,A little dissatisfied,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+54,Female,16,$40000-49999,Very satisfied,Exciting,One of most important,50,Bachelor,Agree,VERY HAPPY
+30,Male,11,$15000-17499,Mod satisfied,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+49,Male,12,$60000-74999,Very satisfied,Routine,Somewhat important,42,High school,Disagree,VERY HAPPY
+44,Male,18,$60000-74999,Very satisfied,Routine,Very important,60,Graduate,Agree,VERY HAPPY
+51,Male,6,$10000-12499,Mod satisfied,NA,One of most important,40,Less than HS,NA,VERY HAPPY
+21,Female,12,$1000-2999,Mod satisfied,Exciting,Very important,NA,High school,Agree,PRETTY HAPPY
+35,Female,13,LT $1000,A little dissatisfied,NA,Very important,NA,High school,Agree,PRETTY HAPPY
+22,Female,11,$8000-9999,Mod satisfied,Routine,Very important,NA,High school,NA,PRETTY HAPPY
+60,Male,12,$25000-29999,NA,Exciting,Very important,NA,High school,Disagree,PRETTY HAPPY
+36,Female,10,$3000-3999,Mod satisfied,NA,Very important,NA,Less than HS,NA,PRETTY HAPPY
+52,Male,8,$8000-9999,NA,Exciting,Very important,NA,Less than HS,Agree,VERY HAPPY
+41,Male,12,$75000+,Mod satisfied,Routine,Very important,50,High school,Agree,PRETTY HAPPY
+39,Female,12,$30000-34999,Very satisfied,Routine,Very important,NA,High school,Agree,VERY HAPPY
+30,Female,12,$22500-24999,A little dissatisfied,Exciting,Very important,48,High school,Disagree,PRETTY HAPPY
+31,Female,14,$40000-49999,Very satisfied,NA,Somewhat important,32,Junior college,NA,PRETTY HAPPY
+61,Male,12,$50000-59999,Very satisfied,Routine,Very important,45,High school,Agree,VERY HAPPY
+42,Female,12,$30000-34999,Mod satisfied,Routine,Very important,44,High school,Disagree,PRETTY HAPPY
+53,Female,12,$60000-74999,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+23,Female,16,$6000-6999,Very satisfied,Exciting,Very important,55,Bachelor,Agree,PRETTY HAPPY
+23,Male,15,$50000-59999,Mod satisfied,Routine,One of most important,30,Junior college,Agree,PRETTY HAPPY
+37,Male,16,$60000-74999,Mod satisfied,Routine,Very important,55,Bachelor,Disagree,PRETTY HAPPY
+40,Female,16,$40000-49999,Very satisfied,NA,Very important,18,Junior college,NA,VERY HAPPY
+69,Female,12,$10000-12499,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+75,Male,8,$10000-12499,Mod satisfied,Routine,Very important,40,Less than HS,Agree,PRETTY HAPPY
+69,Female,12,$4000-4999,NA,NA,Not too important,NA,High school,NA,PRETTY HAPPY
+26,Female,17,$12500-14999,Mod satisfied,Exciting,Very important,50,Bachelor,Agree,VERY HAPPY
+33,Female,12,$8000-9999,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+22,Female,8,LT $1000,Very dissatisfied,NA,Very important,NA,Less than HS,NA,NOT TOO HAPPY
+29,Male,13,$8000-9999,Mod satisfied,NA,Very important,NA,High school,NA,PRETTY HAPPY
+42,Female,11,NA,NA,Routine,One of most important,NA,Less than HS,Agree,PRETTY HAPPY
+44,Female,12,$10000-12499,Mod satisfied,Routine,One of most important,40,High school,NA,PRETTY HAPPY
+38,Female,12,$15000-17499,Mod satisfied,Dull,Somewhat important,37,High school,Agree,NOT TOO HAPPY
+37,Male,10,$7000-7999,A little dissatisfied,Routine,Very important,NA,Less than HS,Agree,VERY HAPPY
+26,Male,12,$30000-34999,Very satisfied,Exciting,Very important,45,High school,Agree,PRETTY HAPPY
+82,Female,16,$25000-29999,NA,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+30,Female,12,$12500-14999,Mod satisfied,Dull,Very important,41,High school,Disagree,PRETTY HAPPY
+61,Female,5,$4000-4999,NA,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+50,Male,12,$25000-29999,Very satisfied,Exciting,One of most important,24,High school,Disagree,VERY HAPPY
+67,Male,8,$7000-7999,NA,Dull,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+82,Male,6,$7000-7999,NA,NA,Very important,NA,Less than HS,NA,VERY HAPPY
+23,Female,15,$60000-74999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+47,Female,12,$40000-49999,Mod satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+58,Male,18,$60000-74999,Very satisfied,Exciting,Somewhat important,45,Graduate,Agree,PRETTY HAPPY
+21,Female,11,NA,NA,Routine,One of most important,NA,High school,Agree,PRETTY HAPPY
+29,Female,13,$20000-22499,Mod satisfied,NA,Somewhat important,24,High school,NA,VERY HAPPY
+19,Male,11,$17500-19999,NA,NA,Somewhat important,NA,Less than HS,NA,PRETTY HAPPY
+65,Female,12,NA,NA,Routine,Not at all important,NA,High school,Agree,NOT TOO HAPPY
+23,Female,16,$10000-12499,Very satisfied,NA,One of most important,40,High school,NA,PRETTY HAPPY
+62,Female,11,$17500-19999,Mod satisfied,Exciting,Very important,NA,High school,Agree,VERY HAPPY
+25,Female,17,$20000-22499,Mod satisfied,Routine,Very important,40,Junior college,Disagree,PRETTY HAPPY
+69,Male,13,$12500-14999,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+71,Female,17,$40000-49999,NA,Exciting,Very important,NA,Bachelor,Agree,VERY HAPPY
+86,Male,12,REFUSED,NA,NA,Very important,NA,High school,NA,PRETTY HAPPY
+33,Male,17,$22500-24999,Mod satisfied,Exciting,Very important,50,Bachelor,Agree,VERY HAPPY
+41,Female,14,$60000-74999,Very satisfied,Exciting,Very important,48,High school,Disagree,VERY HAPPY
+28,Male,12,REFUSED,Mod satisfied,Exciting,Somewhat important,20,High school,Disagree,VERY HAPPY
+76,Male,12,$12500-14999,NA,Routine,Very important,NA,High school,Agree,PRETTY HAPPY
+19,Male,11,$75000+,NA,Exciting,Somewhat important,NA,Less than HS,Agree,VERY HAPPY
+46,Female,14,$60000-74999,Very satisfied,NA,One of most important,NA,High school,NA,PRETTY HAPPY
+86,Female,12,NA,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+23,Female,10,$12500-14999,A little dissatisfied,Routine,Very important,NA,Less than HS,Agree,NOT TOO HAPPY
+24,Female,12,$5000-5999,Mod satisfied,NA,One of most important,15,High school,NA,PRETTY HAPPY
+38,Female,15,$60000-74999,Mod satisfied,NA,Very important,30,Junior college,NA,VERY HAPPY
+31,Female,17,$75000+,Very satisfied,Exciting,Very important,NA,Bachelor,Disagree,PRETTY HAPPY
+48,Female,12,$75000+,Mod satisfied,Routine,Somewhat important,38,High school,Agree,PRETTY HAPPY
+29,Female,13,$75000+,Very satisfied,NA,Very important,NA,High school,NA,VERY HAPPY
+47,Female,12,$35000-39999,Mod satisfied,NA,Very important,38,High school,NA,PRETTY HAPPY
+28,Male,17,$75000+,Mod satisfied,Routine,Somewhat important,60,Graduate,Agree,VERY HAPPY
+28,Male,16,$60000-74999,Mod satisfied,Exciting,Not too important,NA,Bachelor,Agree,PRETTY HAPPY
+53,Male,20,$40000-49999,Very satisfied,Exciting,Very important,50,Graduate,Agree,VERY HAPPY
+35,Male,17,$40000-49999,Very satisfied,Exciting,Very important,40,Bachelor,Disagree,VERY HAPPY
+25,Male,16,$50000-59999,A little dissatisfied,Routine,Very important,NA,Bachelor,Disagree,PRETTY HAPPY
+30,Female,18,$22500-24999,NA,NA,Somewhat important,NA,Bachelor,NA,VERY HAPPY
